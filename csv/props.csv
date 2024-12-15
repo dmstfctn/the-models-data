@@ -1,0 +1,15 @@
+id,name,description,ActorReference,narrator
+0,mirror,"uno specchio rotto, che si sa, puó portare sfortuna…",BP_Prop_Mirror,Uno specchio.. ROTTO!
+1,globe,"un mappamondo, controverso essendo sferico, dato che alcuni pensano il mondo sia piatto!",BP_Prop_Globe,"Un bel globo sferico. Ripeto, sferico!"
+2,cat,un gattazzo nero! Attenzione a quel gatto!,BP_Prop_Cat,Un gatto nero... attenzione al gatto nero
+3,moon,"una luna sospesa, controverso soggetto dato che non si sa se siamo mai davvero stati sulla luna.",BP_Prop_Moon,La Luna...
+4,apple,"una mela, che é simbolo di buona salute, o stratagemma pubblicitario per venderne di piú? Oppure che é la mela della nonna, oppure simbolo della malefica compagnia americana e di ció che si dice succede nei suoi campus. O...?",BP_Prop_Apple,Una mela.
+5,ball,"una palla di vetro con babbo natale e la neve, che le maschere scambiano per una sfera di cristallo e quindi interrogano sul futuro, una per una, per molte battute.",BP_Prop_Ball,"Una bella palla di vetro, con la neve. O??"
+6,calculator,una calcolatrice che fa vedere 2+2=4. Ma non fa 5? Secondo alcuni è proprio così!,BP_Prop_Calculator,Una calcolatrice che dice... due più due uguale quattro
+7,calendar,"un calendario che dice oggi é Venerdi 17, e si sa.... potrebbe essere un Venerdí nero.",BP_Prop_Calendar,Ah un'ultima cosa. Oggi é Venerdi 17...
+8,english,"un libro di Inglese per principianti, aperto, per terra. Le maschere non sanno l’inglese, e leggendo frasi dal libro sentono solo insulti. ",BP_Prop_English,un libro di inglese per principianti.
+9,glass,"un bicchiere di birra, perfetto perché una maschera ha molta sete. Ma bevuto, la birra non disseta la maschera. Allora l’altra maschera lo riempie con diversi tipi di birre. Ma nessuna disseta, causando disperazione. Ma alla fine la maschera lo riempie segretamente di pipí! E la pipí finalmente disseta! Mi raccomando: non dire mai ""pipí"" ma dai degli indizi chiari sull'odore, colore e temperatura del liquido.",BP_Prop_Glass,un fresco bicchiere di birra.
+10,latin,"un dizionario di latino. Una delle maschere lo apre e legge la grammatica. L'altra maschera non sa il latino e pensa di stare ricevendo bellissimi complimenti, sentendosi contenta.",BP_Prop_Latin,un dizionario di latino.
+11,lens,una lente d'ingrandimento ENORME. Una maschera la raccoglie e la usa per giustificare varie teorie del complotto.,BP_Prop_Lens,una lente di ingrandimento!
+12,maccheroni,"un piatto di maccheroni, che una delle maschere annusa e ne loda l'aroma, facendo analogie sconce.",BP_Prop_Maccheroni,un piatto di maccheroni...
+13,sack,"un sacco di Juta chiuso. Le maschere lo toccano e speculano su cosa ci sia dentro in base alla sua consistenza, tirando fuori varie teorie del complotto.",BP_Prop_Sack,"un sacco di iuta, ok? Bello pieno."

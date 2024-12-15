@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "google-auth-library": "^9.15.0",
+    "google-spreadsheet": "^4.1.4"
+  },
+  "name": "dump",
+  "version": "1.0.0",
+  "main": "dump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
