@@ -21,7 +21,7 @@ id,description,category,SpriteReference,CubemapReference,narrator
 48,"Sala dal soffitto con stucchi decorativi, colonne con specchiature verdi, pavimento a scacchi. Nel fondo si apre una porta con tendaggio. Da una finestra a sinistra la luce del sole si proietta sul pavimento.",InteriorRegal,48_sprite,48_HDR,"Maschere, in questa scena siete in una bella stanza, una stanza da signori."
 106,"Veduta notturna di castello con mura merlate e torri, circondato da fossato e con ponte levatoio all'ingresso",Night,106_sprite,106_HDR,Allora in questa scena c'é un castello circondato da un fossato. Ok? Ok.
 6,"Visione notturna di un tranquillo chiostro, circondato da un portico.",Night,6_sprite,6_HDR,"Allora, questa scena si svolge di notte. Siamo in un portico tranquillo."
-7,L'isola di San Giorgio e la laguna illuminate dalla luna.,Night,7_sprite,7_HDR,"Allora. Siamo a Venezia. Al centro della scena, un oggetto.  ok?"
+7,"Venezia, con l'isola di San Giorgio e la laguna illuminate dalla luna di notte.",Night,7_sprite,7_HDR,"Allora. Siamo a Venezia. Al centro della scena, un oggetto.  ok?"
 1,Dall'interno della grotta si guarda verso l'uscita. L'azzurro dell'acqua si riflette sulla volta e sulle pareti dell'antro. Notte con luna.,Night,1_sprite,1_HDR,"É notte, c'é la luna."
 4,Un ampio androne con passaggi dai soffitti a volta è illuminato da una lama di luce che sembra venire dall'interno del castello. Da uno dei passaggi si vede un cortile interno. Notte.,Night,4_sprite,4_HDR,"É notte, c'é la luna."
 5,Veduta di piazza con chiesa e campanile nel fondo. A destra un palazzo con portico. Nella piazza sono presenti numerosi lampioni che gettano la loro lunga ombra nel chiaro di luna della notte.,Night,5_sprite,5_HDR,"É notte, c'é la luna."
