@@ -209,7 +209,7 @@
   },
   {
     "id": "3",
-    "description": "Scena notturna illuminata dalla luna piena. Un vialetto di cimitero circondato da cipressi si snoda fra tombe di varie tipologie. In fondo si intravede l'uscita del cimitero.",
+    "description": "Notte, luna piena. Un vialetto di cimitero circondato da cipressi si snoda fra tombe di varie tipologie. In fondo si intravede l'uscita del cimitero.",
     "category": "Night",
     "SpriteReference": "3_sprite",
     "CubemapReference": "3_HDR",
@@ -241,7 +241,7 @@
   },
   {
     "id": "105",
-    "description": "Veduta di un giardino chiuso da un elaborato cancello. Al centro della scena una vasca circolare con una statuetta al centro.",
+    "description": "Un giardino chiuso con un elaborato cancello. Al centro della scena una vasca circolare con una statuetta al centro.",
     "category": "OutdoorNature",
     "SpriteReference": "105_sprite",
     "CubemapReference": "105_HDR",
@@ -297,7 +297,7 @@
   },
   {
     "id": "101",
-    "description": "Nella scenografia è raffigurata una chiesa sulla riva di un fiume attraversato da un ponticello. Una stradina separa la chiesa da un borgo. Nello sfondo una rupe con una rocca.",
+    "description": "Una chiesa sulla riva di un fiume attraversato da un ponticello. Una stradina separa la chiesa da un borgo. Nello sfondo una rupe con una rocca.",
     "category": "OutdoorNature",
     "SpriteReference": "101_sprite",
     "CubemapReference": "101_HDR",
@@ -385,7 +385,7 @@
   },
   {
     "id": "23",
-    "description": "Una grande quantità di scheletri sono dipinti su tutta la superficie della scenografia.",
+    "description": "Una grande quantità di scheletri uno sopra all'altro creano una macabra porta.",
     "category": "Sinister",
     "SpriteReference": "23_sprite",
     "CubemapReference": "23_HDR",
@@ -393,7 +393,7 @@
   },
   {
     "id": "29",
-    "description": "Sarcofagi e croci disseminati in un prato circondato da cipressi. La scena sfuma in una bruma azzurrina.",
+    "description": "Sarcofagi e croci disseminati in un prato circondato da cipressi.",
     "category": "Sinister",
     "SpriteReference": "29_sprite",
     "CubemapReference": "29_HDR",
@@ -433,7 +433,7 @@
   },
   {
     "id": "73",
-    "description": "Vista di Piazza San Marco verso la laguna, con le colonne che reggono rispettivamente il leone di San Marco e la staua di San Giorgio e il drago. A sinistra si vede lo scorcio del Palazzo Ducale e a destra della Libreria Marciana. Al di là della laguna, l'isola di San Giorgio e la Giudecca.",
+    "description": "Vista di Piazza San Marco verso la laguna, con le colonne che reggono rispettivamente il leone di San Marco e la staua di San Giorgio e il drago. Al di là della laguna, l'isola di San Giorgio e la Giudecca.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "73_sprite",
     "CubemapReference": "73_HDR",

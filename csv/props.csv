@@ -4,7 +4,7 @@ id,name,description,ActorReference,narrator
 2,cat,un gattazzo nero! Attenzione a quel gatto!,BP_Prop_Cat,Un gatto nero... attenzione al gatto nero
 3,moon,"una luna sospesa, controverso soggetto dato che non si sa se siamo mai davvero stati sulla luna.",BP_Prop_Moon,La Luna...
 4,apple,"una mela, che é simbolo di buona salute, o stratagemma pubblicitario per venderne di piú? Oppure che é la mela della nonna, oppure simbolo della malefica compagnia americana e di ció che si dice succede nei suoi campus. O...?",BP_Prop_Apple,Una mela.
-5,ball,"una palla di vetro con babbo natale e la neve, che le maschere scambiano per una sfera di cristallo e quindi interrogano sul futuro, una per una, per molte battute.",BP_Prop_Ball,"Una bella palla di vetro, con la neve. O??"
+5,ball,"Una palla di vetro con babbo natale e la neve, ma che le maschere scambiano per una sfera di cristallo. Le maschere quindi la interrogano sul futuro.",BP_Prop_Ball,"Una bella palla di vetro, con la neve. O??"
 6,calculator,una calcolatrice che fa vedere 2+2=4. Ma non fa 5? Secondo alcuni è proprio così!,BP_Prop_Calculator,Una calcolatrice che dice... due più due uguale quattro
 7,calendar,"un calendario che dice oggi é Venerdi 17, e si sa.... potrebbe essere un Venerdí nero.",BP_Prop_Calendar,Ah un'ultima cosa. Oggi é Venerdi 17...
 8,english,"un libro di Inglese per principianti, aperto, per terra. Le maschere non sanno l’inglese, e leggendo frasi dal libro sentono solo insulti. ",BP_Prop_English,un libro di inglese per principianti.

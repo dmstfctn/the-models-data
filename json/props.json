@@ -37,7 +37,7 @@
   {
     "id": "5",
     "name": "ball",
-    "description": "una palla di vetro con babbo natale e la neve, che le maschere scambiano per una sfera di cristallo e quindi interrogano sul futuro, una per una, per molte battute.",
+    "description": "Una palla di vetro con babbo natale e la neve, ma che le maschere scambiano per una sfera di cristallo. Le maschere quindi la interrogano sul futuro.",
     "ActorReference": "BP_Prop_Ball",
     "narrator": "Una bella palla di vetro, con la neve. O??"
   },
