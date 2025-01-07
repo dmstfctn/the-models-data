@@ -5,6 +5,7 @@
     "tendency": "confabulate",
     "barkvoice": "v2/it_speaker_9",
     "description": "si inventa cose, dice il falso in modo convincente, ha secondi fini, fa il furbo!",
+    "ActorReference": "BP_Mask_Pulcinella",
     "Narrator": "",
     "NarratorLength": "11",
     "NarratorTranslation": ""
@@ -15,6 +16,7 @@
     "tendency": "friendly",
     "barkvoice": "v2/it_speaker_5",
     "description": "è gentile, fin troppo, da ragione all’altra maschera in modo adulatorio come farebbe un lavoratore con il suo capo per ottenere qualcosa...",
+    "ActorReference": "BP_Mask_Arlecchino",
     "Narrator": "",
     "NarratorLength": "14",
     "NarratorTranslation": ""
@@ -25,6 +27,7 @@
     "tendency": "waluigi",
     "barkvoice": "v2/it_speaker_6",
     "description": "é ingannevole, lupo vestito da pecora, cattivo, antagonistico. Vuole fare l'opposto di quello che deve fare o di quello che gli viene chiesto.",
+    "ActorReference": "BP_Mask_Brighella",
     "Narrator": "",
     "NarratorLength": "8",
     "NarratorTranslation": ""
@@ -35,6 +38,7 @@
     "tendency": "confabulate",
     "barkvoice": "v2/it_speaker_6",
     "description": "confabula, usa malapropismi, non ne azzecca una ma lo dice in modo convincente, si inventa cose per dimostrare che sa cose che in realtà non sa.",
+    "ActorReference": "BP_Mask_Balanzone",
     "Narrator": "",
     "NarratorLength": "14",
     "NarratorTranslation": ""
@@ -45,6 +49,7 @@
     "tendency": "waluigi",
     "barkvoice": "v2/it_speaker_5",
     "description": "é insidioso, fa ció che vuole e non ció che vogliono gli altri, é antagonistico, a volte avaro.",
+    "ActorReference": "BP_Mask_Pantalone",
     "Narrator": "",
     "NarratorLength": "11",
     "NarratorTranslation": ""
@@ -55,6 +60,7 @@
     "tendency": "friendly",
     "barkvoice": "v2/it_speaker_9",
     "description": "è gentile ed onesta, amichevole e servile.",
+    "ActorReference": "BP_Mask_Colombina",
     "Narrator": "",
     "NarratorLength": "7",
     "NarratorTranslation": ""
