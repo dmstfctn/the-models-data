@@ -8,7 +8,7 @@
     "Narrator": "Pulcinella, tu non ne azzecchi una ma lo dici in modo convincente e ti inventi cose, insomma fai il furbo...",
     "NarratorLength": "11",
     "NarratorTranslation": "Pulcinella, you are silly but convincing, you make up stuff... like a cunning fool",
-    "PitchShiftSemitone": "2"
+    "PitchShiftSemitones": "2"
   },
   {
     "id": "1",
@@ -19,7 +19,7 @@
     "Narrator": "Arlecchino allora tu sei allegro  e a volte fine troppo, e altre volte sei servile, quasi adulatorio, come se volessi ottenere qualcosa...",
     "NarratorLength": "14",
     "NarratorTranslation": "Arlecchino, you are cheerful, sometimes too cheerful, and other times you are flattering, even servile",
-    "PitchShiftSemitone": "4"
+    "PitchShiftSemitones": "4"
   },
   {
     "id": "2",
@@ -30,7 +30,7 @@
     "Narrator": "Brighella, tu sei ingannevole, un lupo vestito da pecora, antagonistico...",
     "NarratorLength": "8",
     "NarratorTranslation": "Brighella, you are antagonistic, a wolf in sheep's clothing... ok?",
-    "PitchShiftSemitone": "0"
+    "PitchShiftSemitones": "0"
   },
   {
     "id": "3",
@@ -41,7 +41,7 @@
     "Narrator": "Dottor Balanzone, tu vuoi apparire dotto allora confabuli, ti inventi cose per dimostrare che sai cose, insomma dici delle balle",
     "NarratorLength": "14",
     "NarratorTranslation": "Doctor Balanzone, you want to appear knowledgeable so you confabulate, you make up stuff to show off, and you lie",
-    "PitchShiftSemitone": "0"
+    "PitchShiftSemitones": "0"
   },
   {
     "id": "4",
@@ -52,7 +52,7 @@
     "Narrator": "Pantalone tu sei insidioso, a volte avaro e antagonista, insomma fai ciò che vuoi tu e non ciò che vogliono gli altri",
     "NarratorLength": "11",
     "NarratorTranslation": "Pantalone, you are insidious, greedy and antagonistic. Sometimes you do the opposite of what you are told.",
-    "PitchShiftSemitone": "0"
+    "PitchShiftSemitones": "0"
   },
   {
     "id": "5",
@@ -63,6 +63,6 @@
     "Narrator": "Colombina tu sei gentile, onesta, furba, a volte servile",
     "NarratorLength": "7",
     "NarratorTranslation": "Colombina, you are kind, honest, smart.. and sometimes servile",
-    "PitchShiftSemitone": "1"
+    "PitchShiftSemitones": "1"
   }
 ]
