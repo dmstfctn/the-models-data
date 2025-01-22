@@ -2,6 +2,7 @@
   {
     "id": "1",
     "description": "Dall'interno della grotta si guarda verso l'uscita. L'azzurro dell'acqua si riflette sulla volta e sulle pareti dell'antro. Notte con luna.",
+    "description_en": "From inside the cave you look towards the exit. The blue of the water is reflected on the vault and walls of the cave. Night with moon.",
     "category": "Night",
     "SpriteReference": "1_sprite",
     "CubemapReference": "1_HDR",
@@ -12,6 +13,7 @@
   {
     "id": "2",
     "description": "Portico con volte a crociera e scale. Dagli occhi di portico si intravede un cortile. Notte.",
+    "description_en": "Portico with cross vaults and stairs. From the eyes of the portico you can glimpse a courtyard. Night.",
     "category": "Night",
     "SpriteReference": "2_sprite",
     "CubemapReference": "2_HDR",
@@ -22,6 +24,7 @@
   {
     "id": "3",
     "description": "Notte, luna piena. Un vialetto di cimitero circondato da cipressi si snoda fra tombe di varie tipologie. In fondo si intravede l'uscita del cimitero.",
+    "description_en": "Night, full moon. A cemetery path surrounded by cypress trees winds between tombs of various types. At the end you can glimpse the exit of the cemetery.",
     "category": "Night",
     "SpriteReference": "3_sprite",
     "CubemapReference": "3_HDR",
@@ -32,6 +35,7 @@
   {
     "id": "4",
     "description": "Un ampio androne con passaggi dai soffitti a volta è illuminato da una lama di luce che sembra venire dall'interno del castello. Da uno dei passaggi si vede un cortile interno. Notte.",
+    "description_en": "A large entrance hall with passages with vaulted ceilings is illuminated by a blade of light that seems to come from inside the castle. From one of the passages you can see an internal courtyard. Night.",
     "category": "Night",
     "SpriteReference": "4_sprite",
     "CubemapReference": "4_HDR",
@@ -42,6 +46,7 @@
   {
     "id": "5",
     "description": "Veduta di piazza con chiesa e campanile nel fondo. A destra un palazzo con portico. Nella piazza sono presenti numerosi lampioni che gettano la loro lunga ombra nel chiaro di luna della notte.",
+    "description_en": "View of a square with a church and bell tower in the background. On the right, a building with a portico. In the square there are numerous street lamps that cast their long shadows in the moonlight of the night.",
     "category": "Night",
     "SpriteReference": "5_sprite",
     "CubemapReference": "5_HDR",
@@ -52,6 +57,7 @@
   {
     "id": "6",
     "description": "Visione notturna di un tranquillo chiostro, circondato da un portico.",
+    "description_en": "Night view of a quiet cloister, surrounded by a portico.",
     "category": "Night",
     "SpriteReference": "6_sprite",
     "CubemapReference": "6_HDR",
@@ -62,6 +68,7 @@
   {
     "id": "7",
     "description": "Venezia, con l'isola di San Giorgio e la laguna illuminate dalla luna di notte.",
+    "description_en": "Venice, with the island of San Giorgio and the lagoon illuminated by the moon at night.",
     "category": "Night",
     "SpriteReference": "7_sprite",
     "CubemapReference": "7_HDR",
@@ -72,6 +79,7 @@
   {
     "id": "8",
     "description": "La luna raffigurata come un volto di profilo sorge su un globo azzurro.",
+    "description_en": "The moon depicted as a face in profile rises on a blue globe.",
     "category": "Night",
     "SpriteReference": "8_sprite",
     "CubemapReference": "8_HDR",
@@ -82,6 +90,7 @@
   {
     "id": "9",
     "description": "Paesaggio con mare agitato da onde spumose. Nelle parte destra lo specchio di mare è delimitato da alture. Il cielo ha qualche leggera nube.",
+    "description_en": "Landscape with a sea agitated by foamy waves. On the right side the sea is bordered by hills. The sky has some light clouds.",
     "category": "OutdoorNature",
     "SpriteReference": "9_sprite",
     "CubemapReference": "9_HDR",
@@ -92,6 +101,7 @@
   {
     "id": "10",
     "description": "Alcuni alberi in un paesaggio brullo. Sulla destra si vede un muretto. Nello sfondo, in lontananza, si innalzano delle colline.",
+    "description_en": "Some trees in a barren landscape. On the right you can see a low wall. In the background, in the distance, some hills rise.",
     "category": "OutdoorNature",
     "SpriteReference": "10_sprite",
     "CubemapReference": "10_HDR",
@@ -102,6 +112,7 @@
   {
     "id": "11",
     "description": "Una campagna innevata, con stradine. A destra un borgo con campanile. A sinistra una casa colonica. In lontananza si vede una chiesa sullo sfondo di monti innevati.",
+    "description_en": "A snow-covered countryside, with small streets. On the right a village with a bell tower. On the left a farmhouse. In the distance you can see a church against the backdrop of snow-capped mountains.",
     "category": "OutdoorNature",
     "SpriteReference": "11_sprite",
     "CubemapReference": "11_HDR",
@@ -112,6 +123,7 @@
   {
     "id": "12",
     "description": "Tronchi d'albero a perdita d'occhio occupano quasi tutta la scena. Nella parte alta si vede l'inizio delle chiome.",
+    "description_en": "Tree trunks as far as the eye can see occupy almost the entire scene. In the upper part you can see the beginning of the foliage.",
     "category": "OutdoorNature",
     "SpriteReference": "12_sprite",
     "CubemapReference": "12_HDR",
@@ -122,6 +134,7 @@
   {
     "id": "14",
     "description": "Ai piedi di alcuni alberi, fra le rocce si vede l'ingresso di una grotta.",
+    "description_en": "At the foot of some trees, among the rocks you can see the entrance to a cave.",
     "category": "OutdoorNature",
     "SpriteReference": "14_sprite",
     "CubemapReference": "14_HDR",
@@ -132,6 +145,7 @@
   {
     "id": "15",
     "description": "Nelle parte sinistra lo specchio di mare è delimitato da alture. Il cielo è sfumato di azzurro e verde chiaro.",
+    "description_en": "On the left side the sea is bordered by hills. The sky is shaded in blue and light green.",
     "category": "OutdoorNature",
     "SpriteReference": "15_sprite",
     "CubemapReference": "15_HDR",
@@ -142,6 +156,7 @@
   {
     "id": "16",
     "description": "Interno di prigione con colonne a sostegno delle volte. Da una finestra entra un raggio di luce che illumina parte del muro.",
+    "description_en": "Interior of a prison with columns supporting the vaults. From a window a ray of light enters and illuminates part of the wall.",
     "category": "Sinister",
     "SpriteReference": "16_sprite",
     "CubemapReference": "16_HDR",
@@ -152,6 +167,7 @@
   {
     "id": "19",
     "description": "Una bella stanza con parete verde chiaro. Mattone con marmorizzazione. Una porta tra uno specchio rettangolare ed uno ovale.",
+    "description_en": "A beautiful room with a light green wall. Brick with marbling. A door between a rectangular mirror and an oval one.",
     "category": "InteriorRegal",
     "SpriteReference": "19_sprite",
     "CubemapReference": "19_HDR",
@@ -162,6 +178,7 @@
   {
     "id": "21",
     "description": "Cornicioni in varie tonalità di verde. Soffitto blu-indaco e pareti rosse.",
+    "description_en": "Cornices in various shades of green. Indigo blue ceiling and red walls.",
     "category": "InteriorRegal",
     "SpriteReference": "21_sprite",
     "CubemapReference": "21_HDR",
@@ -172,6 +189,7 @@
   {
     "id": "22",
     "description": "Un ampio androne con soffitto a volta conduce ad un cortile e ad un altro passaggio soffuso di luce rosata.",
+    "description_en": "A large hall with a vaulted ceiling leads to a courtyard and another passage suffused with pink light.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "22_sprite",
     "CubemapReference": "22_HDR",
@@ -182,6 +200,7 @@
   {
     "id": "23",
     "description": "Una grande quantità di scheletri uno sopra all'altro creano una macabra porta.",
+    "description_en": "A large quantity of skeletons one above the other create a macabre door.",
     "category": "Sinister",
     "SpriteReference": "23_sprite",
     "CubemapReference": "23_HDR",
@@ -192,6 +211,7 @@
   {
     "id": "26",
     "description": "Ingresso al circo con struttura che sostiene la tabella con la scritta \"circo\". Appesi alla struttura anche uno stendardo col volto di un clown e un cartello con la scritta \"questa sera ore 21\".",
+    "description_en": "Entrance to the circus with a structure that supports the sign with the word \"circus\". Also hanging from the structure is a banner with the face of a clown and a sign with the words \"this evening at 9:00 p.m.\"",
     "category": "Festive",
     "SpriteReference": "26_sprite",
     "CubemapReference": "26_HDR",
@@ -202,6 +222,7 @@
   {
     "id": "29",
     "description": "Sarcofagi e croci disseminati in un prato circondato da cipressi.",
+    "description_en": "Sarcophagi and crosses scattered in a meadow surrounded by cypress trees.",
     "category": "Sinister",
     "SpriteReference": "29_sprite",
     "CubemapReference": "29_HDR",
@@ -212,6 +233,7 @@
   {
     "id": "30",
     "description": "Sala con fuga di archi moreschi, sostenuti da colonne a tortiglione. Pareti dipinte con motivi floreali stilizzati e geometrici.",
+    "description_en": "Room with a series of Moorish arches, supported by twisted columns. Walls painted with stylized floral and geometric motifs.",
     "category": "InteriorRegal",
     "SpriteReference": "30_sprite",
     "CubemapReference": "30_HDR",
@@ -222,6 +244,7 @@
   {
     "id": "34",
     "description": "Sala con tre finestroni ad arco protetti da tendaggi. Pavimento a rombi rossi e blu.",
+    "description_en": "Room with three arched windows protected by curtains. Floor with red and blue diamonds.",
     "category": "InteriorRegal",
     "SpriteReference": "34_sprite",
     "CubemapReference": "34_HDR",
@@ -232,6 +255,7 @@
   {
     "id": "39",
     "description": "Nella parete di fondo della sala, dipinta in azzurro, si aprono due porte schermate da tendaggi blu. Al centro della stessa parete, gli stalli dei consiglieri sono posti su una pedana.",
+    "description_en": "On the back wall of the room, painted in light blue, there are two doors shielded by blue curtains. In the center of the same wall, the councilors' stalls are placed on a platform.",
     "category": "InteriorRegal",
     "SpriteReference": "39_sprite",
     "CubemapReference": "39_HDR",
@@ -242,6 +266,7 @@
   {
     "id": "40",
     "description": "Stanza vista in prospettiva centrale. Pareti di colore rosa carico. Pavimento a scacchi. Al centro della parete di fondo campeggia un orologio a pendolo.",
+    "description_en": "Room seen in central perspective. Walls of deep pink color. Checkered floor. In the center of the back wall stands a pendulum clock.",
     "category": "InteriorRegal",
     "SpriteReference": "40_sprite",
     "CubemapReference": "40_HDR",
@@ -252,6 +277,7 @@
   {
     "id": "41",
     "description": "Interno di grotta con pertugio che guarda verso il mare aperto, dove si nota uno scoglio isolato. Il cielo è nuvoloso e il mare spumoso. All'interno della grotta si vedono riflessi di luce dorata.",
+    "description_en": "Interior of a cave with a hole that looks out to sea, where an isolated rock can be seen. The sky is cloudy and the sea is foamy. Inside the cave you can see reflections of golden light.",
     "category": "Sinister",
     "SpriteReference": "41_sprite",
     "CubemapReference": "41_HDR",
@@ -262,6 +288,7 @@
   {
     "id": "44",
     "description": "Ingresso al circo con varco protetto da un tendaggio rosso.",
+    "description_en": "Entrance to the circus with a passage protected by a red curtain.",
     "category": "Festive",
     "SpriteReference": "44_sprite",
     "CubemapReference": "44_HDR",
@@ -272,6 +299,7 @@
   {
     "id": "45",
     "description": "Ampio fossato con ponte che unisce un torrione al castello.",
+    "description_en": "Wide moat with a bridge that connects a tower to the castle.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "45_sprite",
     "CubemapReference": "45_HDR",
@@ -282,6 +310,7 @@
   {
     "id": "46",
     "description": "Stanza vista in prospettiva centrale dominata da un grande camino. Nel soffitto si vedono travi grezze, sotto l'intonaco si intravedono i mattoni.",
+    "description_en": "Room seen in central perspective dominated by a large fireplace. In the ceiling you can see rough beams, under the plaster you can see the bricks.",
     "category": "InteriorHumble",
     "SpriteReference": "46_sprite",
     "CubemapReference": "46_HDR",
@@ -292,6 +321,7 @@
   {
     "id": "47",
     "description": "Un'osteria. In una sala con colonne che reggono volte a crociera, si vedono un tavolo con sedie, una botte e una credenza. Attraverso un passaggio ad arco vi è l'accesso ad una scala per il piano superiore.",
+    "description_en": "An inn. In a room with columns that support cross vaults, you can see a table with chairs, a barrel and a sideboard. Through an arched passage there is access to a staircase to the upper floor.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "47_sprite",
     "CubemapReference": "47_HDR",
@@ -302,6 +332,7 @@
   {
     "id": "48",
     "description": "Sala dal soffitto con stucchi decorativi, colonne con specchiature verdi, pavimento a scacchi. Nel fondo si apre una porta con tendaggio. Da una finestra a sinistra la luce del sole si proietta sul pavimento.",
+    "description_en": "Room with a ceiling with decorative stucco, columns with green mirrors, checkered floor. In the back there is a door with a curtain. From a window on the left the sunlight is projected onto the floor.",
     "category": "InteriorRegal",
     "SpriteReference": "48_sprite",
     "CubemapReference": "48_HDR",
@@ -312,6 +343,7 @@
   {
     "id": "50",
     "description": "Al centro della scena, al vertice di una scalinata si trova il trono. A destra e a sinistra una fitta teoria di colonne e di basamenti con animali mitologici. Scena dai colori brillanti.",
+    "description_en": "At the center of the scene, at the top of a staircase is the throne. On the right and left a dense series of columns and bases with mythological animals. Scene with bright colors.",
     "category": "InteriorRegal",
     "SpriteReference": "50_sprite",
     "CubemapReference": "50_HDR",
@@ -322,6 +354,7 @@
   {
     "id": "54",
     "description": "Stanza vista in prospettiva centrale, piuttosto spoglia, con camino, un tavolo e una sedia.",
+    "description_en": "Room seen in central perspective, rather bare, with fireplace, a table and a chair.",
     "category": "InteriorHumble",
     "SpriteReference": "54_sprite",
     "CubemapReference": "54_HDR",
@@ -332,6 +365,7 @@
   {
     "id": "55",
     "description": "Veduta di prospetto di un edificio, con pronao a quattro colonne e timpano, che occupa il lato di una piazza.",
+    "description_en": "View of the front of a building, with a pronaos with four columns and a tympanum, which occupies the side of a square.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "55_sprite",
     "CubemapReference": "55_HDR",
@@ -342,6 +376,7 @@
   {
     "id": "57",
     "description": "Entrata delle prigioni, si nota sulla destra la discesa dal castello. Su una piccola scalinata una finestra con grata e una porta. Al centro una colonna sorregge le volte.",
+    "description_en": "Entrance to the prisons, you can see on the right the descent from the castle. On a small staircase a window with a grate and a door. In the center a column supports the vaults.",
     "category": "Sinister",
     "SpriteReference": "57_sprite",
     "CubemapReference": "57_HDR",
@@ -352,6 +387,7 @@
   {
     "id": "59",
     "description": "L'arena del circo con tre ordini di stalli per gli spettatori.",
+    "description_en": "The circus arena with three tiers of stalls for spectators.",
     "category": "Festive",
     "SpriteReference": "59_sprite",
     "CubemapReference": "59_HDR",
@@ -362,6 +398,7 @@
   {
     "id": "64",
     "description": "Stanza umile con scala all'ingresso, arredata solo con un tavolo e una sedia.",
+    "description_en": "Humble room with a staircase at the entrance, furnished only with a table and a chair.",
     "category": "InteriorHumble",
     "SpriteReference": "64_sprite",
     "CubemapReference": "64_HDR",
@@ -372,6 +409,7 @@
   {
     "id": "65",
     "description": "Interno di una cella con due finestre. Nella parete sinistra una mensola con una brocca.",
+    "description_en": "Interior of a cell with two windows. On the left wall a shelf with a jug.",
     "category": "Sinister",
     "SpriteReference": "65_sprite",
     "CubemapReference": "65_HDR",
@@ -382,6 +420,7 @@
   {
     "id": "66",
     "description": "Siamo al circo, c'é una grande faccia gioco, con occhi gialli e bocca aperta, circondata dalle fiamme.",
+    "description_en": "We are at the circus, there is a large game face, with yellow eyes and an open mouth, surrounded by flames.",
     "category": "Festive",
     "SpriteReference": "66_sprite",
     "CubemapReference": "66_HDR",
@@ -392,6 +431,7 @@
   {
     "id": "67",
     "description": "Ingresso di una prigione con colonne squadrate che reggono le volte.",
+    "description_en": "Entrance to a prison with square columns that support the vaults.",
     "category": "Sinister",
     "SpriteReference": "67_sprite",
     "CubemapReference": "67_HDR",
@@ -402,6 +442,7 @@
   {
     "id": "71",
     "description": "In secondo piano si trovano alcune case vicino ad un lago montano che si intravede dietro una cortina di alberi.",
+    "description_en": "In the background are some houses near a mountain lake that can be glimpsed behind a curtain of trees.",
     "category": "OutdoorNature",
     "SpriteReference": "71_sprite",
     "CubemapReference": "71_HDR",
@@ -412,6 +453,7 @@
   {
     "id": "72",
     "description": "Semplici tombe sono allineate ai lati del vialetto del cimitero. Nel fondo si vede il muro col cancello e alcuni cipressi.",
+    "description_en": "Simple graves line the sides of the cemetery driveway. In the background you can see the wall with the gate and some cypress trees.",
     "category": "Sinister",
     "SpriteReference": "72_sprite",
     "CubemapReference": "72_HDR",
@@ -422,6 +464,7 @@
   {
     "id": "73",
     "description": "Vista di Piazza San Marco verso la laguna, con le colonne che reggono rispettivamente il leone di San Marco e la staua di San Giorgio e il drago. Al di là della laguna, l'isola di San Giorgio e la Giudecca.",
+    "description_en": "View of Piazza San Marco towards the lagoon, with the columns supporting the lion of San Marco and the statue of San Giorgio and the dragon. Across the lagoon, the island of San Giorgio and Giudecca.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "73_sprite",
     "CubemapReference": "73_HDR",
@@ -432,6 +475,7 @@
   {
     "id": "74",
     "description": "Una stanza arredata con una cassapanca e un panchetto, su cui si trovano una brocca e un fiasco. Ad un chiodo nella parete è appeso un indumento blu. Nella parete di fondo la finestra ha un vetro rotto e fra freschino.",
+    "description_en": "A room furnished with a chest and a stool, on which are a jug and a flask. A blue garment hangs on a nail in the wall. On the back wall the window has a broken pane and is a bit chilly.",
     "category": "InteriorHumble",
     "SpriteReference": "74_sprite",
     "CubemapReference": "74_HDR",
@@ -442,6 +486,7 @@
   {
     "id": "75",
     "description": "Piazza con una chiesa, un edificio giallo a sinistra e uno azzurro a destra.",
+    "description_en": "Square with a church, a yellow building on the left and a blue one on the right.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "75_sprite",
     "CubemapReference": "75_HDR",
@@ -452,6 +497,7 @@
   {
     "id": "76",
     "description": "Grotta o miniera. Nel fondo si vede un piccolo passaggio.",
+    "description_en": "Cave or mine. At the bottom you can see a small passage.",
     "category": "Sinister",
     "SpriteReference": "76_sprite",
     "CubemapReference": "76_HDR",
@@ -462,6 +508,7 @@
   {
     "id": "77",
     "description": "Grotta con laghetto sotterraneo o forse grotta costiera in cui si insinua il mare.",
+    "description_en": "Cave with an underground lake or perhaps a coastal cave into which the sea intrudes.",
     "category": "Sinister",
     "SpriteReference": "77_sprite",
     "CubemapReference": "77_HDR",
@@ -472,6 +519,7 @@
   {
     "id": "78",
     "description": "Castello con mura merlate e torrioni.",
+    "description_en": "Castle with crenellated walls and towers.",
     "category": "Sinister",
     "SpriteReference": "78_sprite",
     "CubemapReference": "78_HDR",
@@ -482,6 +530,7 @@
   {
     "id": "79",
     "description": "A sinistra è raffigurata parte di una casa. Dalla casa parte un muretto con cancello che dà accesso a una carraia. A destra, dietro il muretto un albero si protende verso il centro della scena.",
+    "description_en": "On the left is part of a house. From the house starts a low wall with a gate that gives access to a carriage road. On the right, behind the low wall, a tree reaches towards the center of the scene.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "79_sprite",
     "CubemapReference": "79_HDR",
@@ -492,6 +541,7 @@
   {
     "id": "80",
     "description": "A destra è raffigurato lo scorcio di un castello con mura merlate. Nello sfondo si vede uno specchio di mare delimitato da un promontorio in fondo al quale si erge un faro.",
+    "description_en": "On the right is a glimpse of a castle with crenellated walls. In the background is a stretch of sea bordered by a promontory at the end of which stands a lighthouse.",
     "category": "OutdoorNature",
     "SpriteReference": "80_sprite",
     "CubemapReference": "80_HDR",
@@ -502,6 +552,7 @@
   {
     "id": "81",
     "description": "Stanza dalle pareti azzurre. Nella parete di fondo una porta con specchiature verdi. Nella stanza non ci sono mobili, alle pareti sono appesi due quadri e uno specchio.",
+    "description_en": "Room with blue walls. On the back wall a door with green mirrors. There is no furniture in the room, two paintings and a mirror hang on the walls.",
     "category": "InteriorRegal",
     "SpriteReference": "81_sprite",
     "CubemapReference": "81_HDR",
@@ -512,6 +563,7 @@
   {
     "id": "82",
     "description": "A destra si vede Palazzo Re Enzo e in fondo le due torri.",
+    "description_en": "On the right you can see Palazzo Re Enzo and the two towers in the background.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "82_sprite",
     "CubemapReference": "82_HDR",
@@ -522,6 +574,7 @@
   {
     "id": "83",
     "description": "Veduta del colle della Guardia col Santuario di San Luca e di una parte del portico che da Bologna conduce al Santuario.",
+    "description_en": "View of the Guardia hill with the Sanctuary of San Luca and part of the portico that leads from Bologna to the Sanctuary.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "83_sprite",
     "CubemapReference": "83_HDR",
@@ -532,6 +585,7 @@
   {
     "id": "86",
     "description": "Un viottolo si inoltra nella campagna passando in mezzo ad alcuni cipressi. Nello sfondo un paesaggio collinare. Il cielo ha una sfumatura rosata di alba o tramonto.",
+    "description_en": "A path winds through the countryside, passing between some cypress trees. In the background a hilly landscape. The sky has a pink hue of dawn or dusk.",
     "category": "OutdoorNature",
     "SpriteReference": "86_sprite",
     "CubemapReference": "86_HDR",
@@ -542,6 +596,7 @@
   {
     "id": "87",
     "description": "Veduta di piazza Maggiore con Palazzo d'Accursio con l'orologio, il Palazzo de' Notai e la scalinata di San Petronio.",
+    "description_en": "View of Piazza Maggiore with Palazzo d'Accursio with the clock, the Palazzo de' Notai and the steps of San Petronio.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "87_sprite",
     "CubemapReference": "87_HDR",
@@ -552,6 +607,7 @@
   {
     "id": "91",
     "description": "Piazza su cui danno edifici dai muri rosa e ocra. Nel fondo porta di città con mura merlate e torre con orologio.",
+    "description_en": "Square overlooked by buildings with pink and ochre walls. In the background, a city gate with crenellated walls and a clock tower.",
     "category": "Festive",
     "SpriteReference": "91_sprite",
     "CubemapReference": "91_HDR",
@@ -562,6 +618,7 @@
   {
     "id": "96",
     "description": "Su di un'altura si vede un castello con torri e bifore.",
+    "description_en": "On a hill you can see a castle with towers and mullioned windows.",
     "category": "OutdoorNature",
     "SpriteReference": "96_sprite",
     "CubemapReference": "96_HDR",
@@ -572,6 +629,7 @@
   {
     "id": "98",
     "description": "Interno di cascina con bucato steso.",
+    "description_en": "Interior of a farmhouse with laundry hanging out to dry.",
     "category": "OutdoorNature",
     "SpriteReference": "98_sprite",
     "CubemapReference": "98_HDR",
@@ -582,6 +640,7 @@
   {
     "id": "99",
     "description": "Nella stanza si vedono un cassettone con specchio, un camino acceso e un dipinto col volto di Cristo.",
+    "description_en": "In the room you can see a chest of drawers with a mirror, a lit fireplace and a painting of the face of Christ.",
     "category": "InteriorHumble",
     "SpriteReference": "99_sprite",
     "CubemapReference": "99_HDR",
@@ -592,6 +651,7 @@
   {
     "id": "101",
     "description": "Una chiesa sulla riva di un fiume attraversato da un ponticello. Una stradina separa la chiesa da un borgo. Nello sfondo una rupe con una rocca.",
+    "description_en": "A church on the bank of a river crossed by a small bridge. A small road separates the church from a village. In the background a cliff with a fortress.",
     "category": "OutdoorNature",
     "SpriteReference": "101_sprite",
     "CubemapReference": "101_HDR",
@@ -602,6 +662,7 @@
   {
     "id": "102",
     "description": "Veduta di piazza dall'angolo di un portico. Nel lato più lontano della piazza inizia una strada in fondo alla quale si vede lo scorcio di una chiesa.",
+    "description_en": "View of the square from the corner of a portico. On the far side of the square begins a road at the end of which you can see a glimpse of a church.",
     "category": "UrbanAndVillageScenery",
     "SpriteReference": "102_sprite",
     "CubemapReference": "102_HDR",
@@ -612,6 +673,7 @@
   {
     "id": "105",
     "description": "Un giardino chiuso con un elaborato cancello. Al centro della scena una vasca circolare con una statuetta al centro.",
+    "description_en": "A garden enclosed by an elaborate gate. In the center of the scene is a circular basin with a statuette in the center.",
     "category": "OutdoorNature",
     "SpriteReference": "105_sprite",
     "CubemapReference": "105_HDR",
@@ -622,6 +684,7 @@
   {
     "id": "106",
     "description": "Veduta notturna di castello con mura merlate e torri, circondato da fossato e con ponte levatoio all'ingresso",
+    "description_en": "Night view of a castle with crenellated walls and towers, surrounded by a moat and with a drawbridge at the entrance",
     "category": "Night",
     "SpriteReference": "106_sprite",
     "CubemapReference": "106_HDR",
@@ -632,6 +695,7 @@
   {
     "id": "107",
     "description": "Cucina con camino e acquaio arredata con vari suppellettili e una panca.",
+    "description_en": "Kitchen with fireplace and sink furnished with various furnishings and a bench.",
     "category": "InteriorHumble",
     "SpriteReference": "107_sprite",
     "CubemapReference": "107_HDR",

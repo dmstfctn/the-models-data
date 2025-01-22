@@ -1,4 +1,5 @@
 {
   "name": "narrator",
-  "barkvoice": "v2/it_speaker_6"
+  "barkvoice": "v2/it_speaker_6",
+  "barkvoice_en": "v2/en_speaker_3"
 }
