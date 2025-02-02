@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0",
+    "type": "bad",
+    "name": "endBad1",
+    "Narrator": "Stop, Stop, Stop. Basta. Qua ci tirano pomodori. Rifacciamo.",
+    "NarratorTranslation": "Stop, stop, stop! Enough… Too many tomatoes. Let's start over",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "1",
+    "type": "bad",
+    "name": "endBad2",
+    "Narrator": "Stop. Stop. Allora la scena non sta piacendo, non va bene, dobbiamo interrom—",
+    "NarratorTranslation": "Stop. Stop. The scene is not to their liking, this is not good… We have to interr—",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "2",
+    "type": "bad",
+    "name": "endBad3",
+    "Narrator": "Stop, stop, stop, stop. Non va bene, la scena va tagliata. Ricominciamo.",
+    "NarratorTranslation": "Stop, stop, stop, stop… This is not good, scene needs to be cut… Let's start over",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "3",
+    "type": "good",
+    "name": "endGood1",
+    "Narrator": "Bene maschere, brave, brave, brave",
+    "NarratorTranslation": "Well done masks, good, good…",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "4",
+    "type": "good",
+    "name": "endGood2",
+    "Narrator": "Bene maschere, brave, brave, bene cosí",
+    "NarratorTranslation": "Well done masks. Bravo!",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "5",
+    "type": "good",
+    "name": "endGood3",
+    "Narrator": "Bella scena, brave maschere.",
+    "NarratorTranslation": "Nice scene, well done masks.",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "6",
+    "type": "question",
+    "name": "endQuestion1",
+    "Narrator": "E voi, cosa ne pensate? Erano credibili? Erano capaci?",
+    "NarratorTranslation": "And you. What did you think? Was it credible? Were they capable?",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "7",
+    "type": "question",
+    "name": "endQuestion2",
+    "Narrator": "E voi, pubblico, cosa ne pensate di quello che hanno detto i modelli?",
+    "NarratorTranslation": "And you. What did YOU think of what the models said?",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "8",
+    "type": "question",
+    "name": "endQuestion3",
+    "Narrator": "E voi, pubblico, cosa ne pensate dei modelli? Erano credibili?",
+    "NarratorTranslation": "And you, what did YOU think about the models? Were they credible?",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "9",
+    "type": "question",
+    "name": "endQuestion4",
+    "Narrator": "E voi, pubblico, cosa ne pensate dei modelli? Li capite? Ci credete?",
+    "NarratorTranslation": "And you - what do you think about the models? Did you understand them? Did you believe them?",
+    "NarratorLength": "6"
+  },
+  {
+    "id": "10",
+    "type": "question",
+    "name": "endQuestion5",
+    "Narrator": "E voi, pubblico, cosa ne pensate dei modelli? Li capite? Gli credete?",
+    "NarratorTranslation": "And you - what do you think about the models? Did you understand… Did you believe it?",
+    "NarratorLength": "6"
+  }
+]

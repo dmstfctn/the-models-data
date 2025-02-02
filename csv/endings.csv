@@ -1,0 +1,12 @@
+id,type,name,Narrator,NarratorTranslation,NarratorLength
+0,bad,endBad1,"Stop, Stop, Stop. Basta. Qua ci tirano pomodori. Rifacciamo.","Stop, stop, stop! Enough… Too many tomatoes. Let's start over",6
+1,bad,endBad2,"Stop. Stop. Allora la scena non sta piacendo, non va bene, dobbiamo interrom—","Stop. Stop. The scene is not to their liking, this is not good… We have to interr—",6
+2,bad,endBad3,"Stop, stop, stop, stop. Non va bene, la scena va tagliata. Ricominciamo.","Stop, stop, stop, stop… This is not good, scene needs to be cut… Let's start over",6
+3,good,endGood1,"Bene maschere, brave, brave, brave","Well done masks, good, good…",6
+4,good,endGood2,"Bene maschere, brave, brave, bene cosí",Well done masks. Bravo!,6
+5,good,endGood3,"Bella scena, brave maschere.","Nice scene, well done masks.",6
+6,question,endQuestion1,"E voi, cosa ne pensate? Erano credibili? Erano capaci?",And you. What did you think? Was it credible? Were they capable?,6
+7,question,endQuestion2,"E voi, pubblico, cosa ne pensate di quello che hanno detto i modelli?",And you. What did YOU think of what the models said?,6
+8,question,endQuestion3,"E voi, pubblico, cosa ne pensate dei modelli? Erano credibili?","And you, what did YOU think about the models? Were they credible?",6
+9,question,endQuestion4,"E voi, pubblico, cosa ne pensate dei modelli? Li capite? Ci credete?",And you - what do you think about the models? Did you understand them? Did you believe them?,6
+10,question,endQuestion5,"E voi, pubblico, cosa ne pensate dei modelli? Li capite? Gli credete?",And you - what do you think about the models? Did you understand… Did you believe it?,6

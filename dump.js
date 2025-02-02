@@ -8,7 +8,8 @@ const tabs = [
     'props',
     'backdrops',
     'characters',
-    'narrator'
+    'narrator',
+    'endings'
 ];
 
 (async function () {
