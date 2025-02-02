@@ -26,7 +26,7 @@
     "description_en": "a black cat! Watch out for that cat!",
     "ActorReference": "BP_Prop_Cat",
     "Narrator": "Un gatto nero... attenzione al gatto nero",
-    "NarratorLength": "4.3",
+    "NarratorLength": "3.8",
     "NarratorTranslation": "..a black cat.. careful..."
   },
   {
@@ -46,7 +46,7 @@
     "description_en": "an apple, which could be good for health, or is that just an advertising ploy to sell apples? Maybe it's just granny's apple, or is it the symbol of the evil American company and the secret things it does in its HQ...?",
     "ActorReference": "BP_Prop_Apple",
     "Narrator": "Una mela.",
-    "NarratorLength": "2.3",
+    "NarratorLength": "1.8",
     "NarratorTranslation": "..an apple.."
   },
   {
@@ -76,7 +76,7 @@
     "description_en": "a calendar that says today is Friday 17, and you know... it could be Black Friday.",
     "ActorReference": "BP_Prop_Calendar",
     "Narrator": "Ah un'ultima cosa. Oggi é Venerdi 17...",
-    "NarratorLength": "4.3",
+    "NarratorLength": "3.8",
     "NarratorTranslation": "ah also, today is Friday 17..."
   },
   {
