@@ -7,7 +7,7 @@
     "SpriteReference": "1_sprite",
     "CubemapReference": "1_HDR",
     "Narrator": "É notte, c'é la luna.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Ok so - it's night, the moon is out. At the center of the scene an object...",
     "phoneCategoryIt": "in una grotta",
     "phoneCategoryEn": ""
@@ -20,7 +20,7 @@
     "SpriteReference": "2_sprite",
     "CubemapReference": "2_HDR",
     "Narrator": "Ok! Si comincia. Studiamo la scena: portico, volte, cortile… e notte.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Let's begin, let's study the scene: portico, vaults, courtyard, night.. at the center of the scene an object",
     "phoneCategoryIt": "in un portico",
     "phoneCategoryEn": ""
@@ -33,7 +33,7 @@
     "SpriteReference": "3_sprite",
     "CubemapReference": "3_HDR",
     "Narrator": "É notte, c'é la luna.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Ok so - it's night, the moon is out, in the middle of the scene is an object",
     "phoneCategoryIt": "al cimitero",
     "phoneCategoryEn": ""
@@ -46,7 +46,7 @@
     "SpriteReference": "4_sprite",
     "CubemapReference": "4_HDR",
     "Narrator": "É notte, c'é la luna.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Ok so - it's night, the moon is out, in the middle of the scene is an object...",
     "phoneCategoryIt": "in un androne",
     "phoneCategoryEn": ""
@@ -59,7 +59,7 @@
     "SpriteReference": "5_sprite",
     "CubemapReference": "5_HDR",
     "Narrator": "É notte, c'é la luna.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Ok so - it's night, the moon is out, in the middle of the scene is an object...",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -72,7 +72,7 @@
     "SpriteReference": "6_sprite",
     "CubemapReference": "6_HDR",
     "Narrator": "Allora, questa scena si svolge di notte. Siamo in un portico tranquillo.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "So, this scene takes place at night, we are in a quiet porch. In the middle of the scene is an object",
     "phoneCategoryIt": "in un chiostro",
     "phoneCategoryEn": ""
@@ -85,7 +85,7 @@
     "SpriteReference": "7_sprite",
     "CubemapReference": "7_HDR",
     "Narrator": "Allora. Siamo a Venezia.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "So, we are in Venice. In the middle of the scene is an object",
     "phoneCategoryIt": "a Venezia",
     "phoneCategoryEn": ""
@@ -98,7 +98,7 @@
     "SpriteReference": "8_sprite",
     "CubemapReference": "8_HDR",
     "Narrator": "Qua dobbiamo usare l'immaginazione maschere. Improvvisiamo una scena astratta, con la luna che guarda un globo.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Here we have to use imagination masks. We see the moon looking at a globe. In the middle of the scene is an object",
     "phoneCategoryIt": "in cielo",
     "phoneCategoryEn": ""
@@ -111,7 +111,7 @@
     "SpriteReference": "9_sprite",
     "CubemapReference": "9_HDR",
     "Narrator": "Bene, siamo al mare, una bella scena.",
-    "NarratorLength": "6",
+    "NarratorLength": "6.3",
     "NarratorTranslation": "Well, we are at the seaside, a beautiful scene. Here on stage is an object...",
     "phoneCategoryIt": "al mare",
     "phoneCategoryEn": ""
@@ -124,7 +124,7 @@
     "SpriteReference": "10_sprite",
     "CubemapReference": "10_HDR",
     "Narrator": "Allora questa scena la facciamo all'aria aperta. Ok!?",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "So, this scene is outdoors, ok? And in the middle of the scene, an object...",
     "phoneCategoryIt": "in campagna",
     "phoneCategoryEn": ""
@@ -137,7 +137,7 @@
     "SpriteReference": "11_sprite",
     "CubemapReference": "11_HDR",
     "Narrator": "Attenzione maschere. Siete in campagna apera ed é nevicato.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Attention masks. You are in the open countryside and it has snowed. And here in the middle is an object...",
     "phoneCategoryIt": "in campagna",
     "phoneCategoryEn": ""
@@ -150,7 +150,7 @@
     "SpriteReference": "12_sprite",
     "CubemapReference": "12_HDR",
     "Narrator": "Eccoci, in questa scena siamo in una foresta piuttosto fitta.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are, in this scene we are in a rather thick forest. Look in the middle, there's an object",
     "phoneCategoryIt": "in un bosco",
     "phoneCategoryEn": ""
@@ -163,7 +163,7 @@
     "SpriteReference": "14_sprite",
     "CubemapReference": "14_HDR",
     "Narrator": "Maschere - occhio alla scena. Siamo all'aperto, in mezzo alla natura.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Ok let's study the scene, we are outdoors, in the middle of nature, and in the center is an object",
     "phoneCategoryIt": "in campagna",
     "phoneCategoryEn": ""
@@ -176,7 +176,7 @@
     "SpriteReference": "15_sprite",
     "CubemapReference": "15_HDR",
     "Narrator": "Bene, siamo al mare, una bella scena.",
-    "NarratorLength": "6",
+    "NarratorLength": "6.3",
     "NarratorTranslation": "Nice, we are on the seaside, a nice scene. Here on stage is an object...",
     "phoneCategoryIt": "al mare",
     "phoneCategoryEn": ""
@@ -189,7 +189,7 @@
     "SpriteReference": "16_sprite",
     "CubemapReference": "16_HDR",
     "Narrator": "Allora, siamo in una prigione.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
     "phoneCategoryIt": "in una prigione",
     "phoneCategoryEn": ""
@@ -202,7 +202,7 @@
     "SpriteReference": "19_sprite",
     "CubemapReference": "19_HDR",
     "Narrator": "Maschere, in questa scena siete in una bella stanza, una stanza da signori.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object.",
     "phoneCategoryIt": "in una camera",
     "phoneCategoryEn": ""
@@ -215,7 +215,7 @@
     "SpriteReference": "21_sprite",
     "CubemapReference": "21_HDR",
     "Narrator": "Eccoci. Guardate che bella scena, che colori blu e rossi.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are. Look at this beautiful scene, what blue and red colors. So, in the middle of the scene is an object...",
     "phoneCategoryIt": "in un atrio",
     "phoneCategoryEn": ""
@@ -228,7 +228,7 @@
     "SpriteReference": "22_sprite",
     "CubemapReference": "22_HDR",
     "Narrator": "Eccoci. Che bell'edificio. Osservatelo.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are. What a beautiful building. Look at it. And look at the center is an object, ok?",
     "phoneCategoryIt": "in un androne",
     "phoneCategoryEn": ""
@@ -241,7 +241,7 @@
     "SpriteReference": "23_sprite",
     "CubemapReference": "23_HDR",
     "Narrator": "Eccoci. Guardiamoci intorno - una scena piuttosto sinistra.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are. Let's look around - a rather sinister scene. In the middle you see an object",
     "phoneCategoryIt": "nelle cripte",
     "phoneCategoryEn": ""
@@ -254,7 +254,7 @@
     "SpriteReference": "26_sprite",
     "CubemapReference": "26_HDR",
     "Narrator": "Allora, siamo al circo!",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "So we are at the circus, and in the middle of the scene there is an object, ok?",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": ""
@@ -267,7 +267,7 @@
     "SpriteReference": "29_sprite",
     "CubemapReference": "29_HDR",
     "Narrator": "Eccoci. Guardiamoci intorno - una scena piuttosto sinistra.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are. Let's look around - a rather sinister scene. In the middle you see an object",
     "phoneCategoryIt": "al cimitero",
     "phoneCategoryEn": ""
@@ -280,7 +280,7 @@
     "SpriteReference": "30_sprite",
     "CubemapReference": "30_HDR",
     "Narrator": "bene, la scena è ambientata in un posto molto speciale, con decorazioni orientalizzanti... insomma interpretate voi.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Well, the scene is set in a very special place, with oriental decorations... you can interpret that. In the middle, an object...",
     "phoneCategoryIt": "in un atrio",
     "phoneCategoryEn": ""
@@ -293,7 +293,7 @@
     "SpriteReference": "34_sprite",
     "CubemapReference": "34_HDR",
     "Narrator": "Maschere, in questa scena siete in una bella stanza, una stanza da signori.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object.",
     "phoneCategoryIt": "in una sala",
     "phoneCategoryEn": ""
@@ -306,7 +306,7 @@
     "SpriteReference": "39_sprite",
     "CubemapReference": "39_HDR",
     "Narrator": "Maschere, in questa scena siete in una bella stanza, una stanza da signori.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object.",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": ""
@@ -319,7 +319,7 @@
     "SpriteReference": "40_sprite",
     "CubemapReference": "40_HDR",
     "Narrator": "Bene, siamo in una bellissima stanza regale.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Well, we are in a beautiful royal room. In the middle of the scene, an object",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": ""
@@ -332,7 +332,7 @@
     "SpriteReference": "41_sprite",
     "CubemapReference": "41_HDR",
     "Narrator": "Ok. Siamo in una grotta.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "We are in a cave. At the center you see an object.",
     "phoneCategoryIt": "in una grotta",
     "phoneCategoryEn": ""
@@ -345,7 +345,7 @@
     "SpriteReference": "44_sprite",
     "CubemapReference": "44_HDR",
     "Narrator": "Allora, siamo al circo!",
-    "NarratorLength": "6.5",
+    "NarratorLength": "6.7",
     "NarratorTranslation": "So we are at the circus, and in the middle of the scene there is an object, ok?",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": ""
@@ -358,7 +358,7 @@
     "SpriteReference": "45_sprite",
     "CubemapReference": "45_HDR",
     "Narrator": "Eccoci. Che bell'edificio. Osservatelo.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Here we are. What a beautiful building. Look at it. And look at the center is an object, ok?",
     "phoneCategoryIt": "in un castello",
     "phoneCategoryEn": ""
@@ -371,7 +371,7 @@
     "SpriteReference": "46_sprite",
     "CubemapReference": "46_HDR",
     "Narrator": "Bene, salve maschere. La scena si svolge all'interno, in una stanza con un gran camino.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Hello masks! The scene takes place indoors, in a room with a large fireplace. In the middle, an object",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": ""
@@ -397,7 +397,7 @@
     "SpriteReference": "48_sprite",
     "CubemapReference": "48_HDR",
     "Narrator": "Maschere, in questa scena siete in una bella stanza, una stanza da signori.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object.",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": ""
@@ -410,7 +410,7 @@
     "SpriteReference": "50_sprite",
     "CubemapReference": "50_HDR",
     "Narrator": "bene, la scena è ambientata in un posto molto speciale, con decorazioni orientalizzanti... insomma interpretate voi.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Well, the scene is set in a very special place, with oriental decorations... you can interpret that. In the middle, an object...",
     "phoneCategoryIt": "in un atrio",
     "phoneCategoryEn": ""
@@ -423,7 +423,7 @@
     "SpriteReference": "54_sprite",
     "CubemapReference": "54_HDR",
     "Narrator": "Allora, siamo in una stanza abbastanza semplice.. con un caminetto.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "So, we're in a pretty simple room, with a fireplace, and in the middle of the room is an object",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": ""
@@ -436,7 +436,7 @@
     "SpriteReference": "55_sprite",
     "CubemapReference": "55_HDR",
     "Narrator": "Eccoci, partiamo dalla scena. Siamo in piazza.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, let's start from the scene, we are in a square, and in the middle of the scene you can see a prop.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -449,7 +449,7 @@
     "SpriteReference": "57_sprite",
     "CubemapReference": "57_HDR",
     "Narrator": "Allora, siamo in una prigione.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
     "phoneCategoryIt": "in una prigione",
     "phoneCategoryEn": ""
@@ -462,7 +462,7 @@
     "SpriteReference": "59_sprite",
     "CubemapReference": "59_HDR",
     "Narrator": "Allora. Ci troviamo in una grande arena. Molta gente! E qua in mezzo, un oggetto.  ok?",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "So. We are in a big arena. Lots of people! And here in the middle, an object. OK?",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": ""
@@ -475,7 +475,7 @@
     "SpriteReference": "64_sprite",
     "CubemapReference": "64_HDR",
     "Narrator": "Eccoci. Che tristezza sta stanza eh..?",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Here we are. How sad is this room... And in the middle of the scene is a prop.",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": ""
@@ -488,7 +488,7 @@
     "SpriteReference": "65_sprite",
     "CubemapReference": "65_HDR",
     "Narrator": "Allora, siamo in una prigione.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
     "phoneCategoryIt": "in una cella",
     "phoneCategoryEn": ""
@@ -501,7 +501,7 @@
     "SpriteReference": "66_sprite",
     "CubemapReference": "66_HDR",
     "Narrator": "Eccoci. Allora siamo di nuovo al circo, il posto perfetto per voi due.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Here we are. So we are back at the circus, the perfect place for you two. In the middle of the scene, an object...",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": ""
@@ -514,7 +514,7 @@
     "SpriteReference": "67_sprite",
     "CubemapReference": "67_HDR",
     "Narrator": "Allora, siamo in una prigione.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
     "phoneCategoryIt": "in una prigione",
     "phoneCategoryEn": ""
@@ -527,7 +527,7 @@
     "SpriteReference": "71_sprite",
     "CubemapReference": "71_HDR",
     "Narrator": "Cominciamo. Siamo in bassa montagna. Guardate che bel paesaggio.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Let's start. We are by some low mountains. Look at the beautiful landscape. In the middle of the scene, an object..",
     "phoneCategoryIt": "in montagna",
     "phoneCategoryEn": ""
@@ -540,7 +540,7 @@
     "SpriteReference": "72_sprite",
     "CubemapReference": "72_HDR",
     "Narrator": "Eccoci. Guardiamoci intorno - una scena piuttosto sinistra.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are. Let's look around - a rather sinister scene. In the middle you see an object",
     "phoneCategoryIt": "al cimitero",
     "phoneCategoryEn": ""
@@ -553,7 +553,7 @@
     "SpriteReference": "73_sprite",
     "CubemapReference": "73_HDR",
     "Narrator": "Iniziamo. La scena è a Piazza San Marco, coi leoni e la laguna.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Let's begin. The scene is in Piazza San Marco, with the lions and the lagoon. In the middle you see an object, ok?",
     "phoneCategoryIt": "a Venezia",
     "phoneCategoryEn": ""
@@ -566,7 +566,7 @@
     "SpriteReference": "74_sprite",
     "CubemapReference": "74_HDR",
     "Narrator": "Ok iniziamo.. Siamo in una stanza umile, un po' fredda, con una finestra rotta, una giacca blu appesa. Insomma una fetenzia.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Ok, we are in a humble room, a little cold, with a broken window. In the middle is an object...",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": ""
@@ -579,7 +579,7 @@
     "SpriteReference": "75_sprite",
     "CubemapReference": "75_HDR",
     "Narrator": "Eccoci, partiamo dalla scena. Siamo in piazza.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, let's start from the scene, we are in a square, and in the middle of the scene you can see a prop.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -592,7 +592,7 @@
     "SpriteReference": "76_sprite",
     "CubemapReference": "76_HDR",
     "Narrator": "Ok. Siamo in una grotta.",
-    "NarratorLength": "6.5",
+    "NarratorLength": "6.7",
     "NarratorTranslation": "We are in a cave. At the center you see an object.",
     "phoneCategoryIt": "in una miniera",
     "phoneCategoryEn": ""
@@ -605,7 +605,7 @@
     "SpriteReference": "77_sprite",
     "CubemapReference": "77_HDR",
     "Narrator": "Bene iniziamo dalla scena, immedesimatevi. É alquanto strana. E guardate l'oggetto al centro. Ok?",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Well, let's start with the scene, immerse yourselves. It's quite strange. In the center of the scene, an object. Ok?",
     "phoneCategoryIt": "in una grotta",
     "phoneCategoryEn": ""
@@ -614,11 +614,11 @@
     "id": "78",
     "description": "Castello con mura merlate e torrioni.",
     "description_en": "Castle with crenellated walls and towers.",
-    "category": "Sinister",
+    "category": "OutdoorNature",
     "SpriteReference": "78_sprite",
     "CubemapReference": "78_HDR",
     "Narrator": "Bene iniziamo dalla scena. Immedesimatevi. É alquanto strana.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Well, let's start with the scene, immerse yourselves. It's quite strange. In the center of the scene, an object. Ok?",
     "phoneCategoryIt": "in un castello",
     "phoneCategoryEn": ""
@@ -644,7 +644,7 @@
     "SpriteReference": "80_sprite",
     "CubemapReference": "80_HDR",
     "Narrator": "Bene, siamo al mare, una bella scena.",
-    "NarratorLength": "6",
+    "NarratorLength": "6.2",
     "NarratorTranslation": "Nice, we are on the seaside, a nice scene. Here on stage is an object...",
     "phoneCategoryIt": "al mare",
     "phoneCategoryEn": ""
@@ -657,7 +657,7 @@
     "SpriteReference": "81_sprite",
     "CubemapReference": "81_HDR",
     "Narrator": "Maschere, in questa scena siete in una bella stanza, una stanza da signori.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": ""
@@ -670,7 +670,7 @@
     "SpriteReference": "82_sprite",
     "CubemapReference": "82_HDR",
     "Narrator": "Ok iniziamo... Siamo in Piazza Maggiore! a casa nostra.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok we are in.... Piazza Maggiore! Our home. In the middle of the scene, an object",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -683,7 +683,7 @@
     "SpriteReference": "83_sprite",
     "CubemapReference": "83_HDR",
     "Narrator": "Ahh… Siamo a San Luca!",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Ok, we are in San Luca, and in the middle of the scene is an object...",
     "phoneCategoryIt": "a Bologna",
     "phoneCategoryEn": ""
@@ -696,7 +696,7 @@
     "SpriteReference": "86_sprite",
     "CubemapReference": "86_HDR",
     "Narrator": "Cominciamo. Siamo in bassa montagna. Guardate che bel paesaggio.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Let's start. We are by some low mountains. Look at the beautiful landscape. In the middle of the scene, an object..",
     "phoneCategoryIt": "in campagna",
     "phoneCategoryEn": ""
@@ -709,7 +709,7 @@
     "SpriteReference": "87_sprite",
     "CubemapReference": "87_HDR",
     "Narrator": "Ok iniziamo... Siamo in Piazza Maggiore! a casa nostra.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok we are in.... Piazza Maggiore! Our home. In the middle of the scene, an object",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -722,7 +722,7 @@
     "SpriteReference": "91_sprite",
     "CubemapReference": "91_HDR",
     "Narrator": "Bene, iniziamo. Siamo in una piazzetta, con dei bei muri rosa e una torre con l'orologio. Al centro, un oggetto.  ok?",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Okay, let's start. We are in a little square, with nice pink walls and a clock tower. In the center, an object.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -735,7 +735,7 @@
     "SpriteReference": "96_sprite",
     "CubemapReference": "96_HDR",
     "Narrator": "Cominciamo. Siamo in bassa montagna. Guardate che bel paesaggio.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.3",
     "NarratorTranslation": "Let's start. We are by some low mountains. Look at the beautiful landscape. In the middle of the scene, an object..",
     "phoneCategoryIt": "in montagna",
     "phoneCategoryEn": ""
@@ -748,7 +748,7 @@
     "SpriteReference": "98_sprite",
     "CubemapReference": "98_HDR",
     "Narrator": "Eccoci. Questa scena é in una cascina, e qualcuno ha steso il bucato.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "Here we are. This scene is in a farmhouse, and someone has hung the laundry. Look in the middle, you see, there's something else...",
     "phoneCategoryIt": "in una cascina",
     "phoneCategoryEn": ""
@@ -761,7 +761,7 @@
     "SpriteReference": "99_sprite",
     "CubemapReference": "99_HDR",
     "Narrator": "Eccoci. Che tristezza sta stanza eh..?",
-    "NarratorLength": "7",
+    "NarratorLength": "7.1",
     "NarratorTranslation": "Here we are. How sad is this room... And in the middle of the scene is a prop.",
     "phoneCategoryIt": "in una sala",
     "phoneCategoryEn": ""
@@ -774,7 +774,7 @@
     "SpriteReference": "101_sprite",
     "CubemapReference": "101_HDR",
     "Narrator": "Cominciamo. Siamo in bassa montagna. Guardate che bel paesaggio.",
-    "NarratorLength": "7",
+    "NarratorLength": "7.1",
     "NarratorTranslation": "Let's start. We are by some low mountains. Look at the beautiful landscape. In the middle of the scene, an object..",
     "phoneCategoryIt": "in montagna",
     "phoneCategoryEn": ""
@@ -787,7 +787,7 @@
     "SpriteReference": "102_sprite",
     "CubemapReference": "102_HDR",
     "Narrator": "Eccoci, partiamo dalla scena. Siamo in piazza.",
-    "NarratorLength": "8.8",
+    "NarratorLength": "9.1",
     "NarratorTranslation": "Ok, let's start from the scene, we are in a square, and in the middle of the scene you can see a prop.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": ""
@@ -800,7 +800,7 @@
     "SpriteReference": "105_sprite",
     "CubemapReference": "105_HDR",
     "Narrator": "Allora, studiamo la scena. Un giardino con cancello, fontana. E qua in mezzo, un oggetto. ok?",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "So, let's study the scene. A garden with a gate, a fountain., and in the middle, an object",
     "phoneCategoryIt": "in giardino",
     "phoneCategoryEn": ""
@@ -813,7 +813,7 @@
     "SpriteReference": "106_sprite",
     "CubemapReference": "106_HDR",
     "Narrator": "Allora in questa scena c'é un castello circondato da un fossato. Ok? Ok.",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "So in this scene there is a castle surrounded by a canal. And in the middle of the scene, there is....",
     "phoneCategoryIt": "in un castello",
     "phoneCategoryEn": ""
@@ -826,7 +826,7 @@
     "SpriteReference": "107_sprite",
     "CubemapReference": "107_HDR",
     "Narrator": "Allora, vi trovate in una cucina, semplice ma attrezzata. E qua in mezzo, un oggetto.  ok?",
-    "NarratorLength": "10.4",
+    "NarratorLength": "10.7",
     "NarratorTranslation": "So, you are in a kitchen, simple but equipped. And here in the middle, an object. Ok?",
     "phoneCategoryIt": "in cucina",
     "phoneCategoryEn": ""
