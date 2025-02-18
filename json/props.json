@@ -83,7 +83,7 @@
     "id": "8",
     "name": "english",
     "description": "un libro di Inglese per principianti, aperto, per terra. Le maschere non sanno l’inglese, e leggendo frasi dal libro sentono solo insulti.",
-    "description_en": "a beginner's English book, open, on the floor. The masks don't speak English, and when reading from it only hear obscenities, insults or curses.",
+    "description_en": "a beginner's Italian book, open, on the floor. The masks don't speak Italian, and when reading from it only hear obscenities, insults or curses.",
     "ActorReference": "BP_Prop_English",
     "Narrator": "un libro di inglese per principianti.",
     "NarratorLength": "4",

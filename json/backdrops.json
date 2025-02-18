@@ -2,7 +2,7 @@
   {
     "id": "1",
     "description": "Dall'interno della grotta si guarda verso l'uscita. L'azzurro dell'acqua si riflette sulla volta e sulle pareti dell'antro. Notte con luna.",
-    "description_en": "From inside the cave you look towards the exit. The blue of the water is reflected on the vault and walls of the cave. Night with moon.",
+    "description_en": "A cave looking towards an exit. The water reflects on the walls of the cave. Full moon night.",
     "category": "Night",
     "SpriteReference": "1_sprite",
     "CubemapReference": "1_HDR",
@@ -15,7 +15,7 @@
   {
     "id": "2",
     "description": "Portico con volte a crociera e scale. Dagli occhi di portico si intravede un cortile. Notte.",
-    "description_en": "Portico with cross vaults and stairs. From the eyes of the portico you can glimpse a courtyard. Night.",
+    "description_en": "A portico with vaults and stairs. A courtyard is visible. It's night.",
     "category": "Night",
     "SpriteReference": "2_sprite",
     "CubemapReference": "2_HDR",
@@ -28,7 +28,7 @@
   {
     "id": "3",
     "description": "Notte, luna piena. Un vialetto di cimitero circondato da cipressi si snoda fra tombe di varie tipologie. In fondo si intravede l'uscita del cimitero.",
-    "description_en": "Night, full moon. A cemetery path surrounded by cypress trees winds between tombs of various types. At the end you can glimpse the exit of the cemetery.",
+    "description_en": "Night, full moon. A cemetery path is surrounded by cypresses and tumbs of various kinds. The exit of the cemetery is visible.",
     "category": "Night",
     "SpriteReference": "3_sprite",
     "CubemapReference": "3_HDR",
