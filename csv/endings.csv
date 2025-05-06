@@ -1,12 +1,12 @@
-id,type,name,Narrator,NarratorTranslation,NarratorTranslationEs,NarratorLength
-0,bad,endBad1,"Stop, Stop, Stop. Basta. Qua ci tirano pomodori. Rifacciamo.","Stop, stop, stop! Enough… Too many tomatoes. Let's start over","¡Alto, alto, alto! ¡Basta! Demasiados tomates. Empecemos de nuevo.",5.5
-1,bad,endBad2,"Stop. Stop. Allora la scena non sta piacendo, non va bene, dobbiamo interrom—","Stop. Stop. The scene is not to their liking, this is not good… We have to interr—","Alto. Alto. La escena no les gusta, esto no es bueno... Tenemos que interr...",5.5
-2,bad,endBad3,"Stop, stop, stop, stop. Non va bene, la scena va tagliata. Ricominciamo.","Stop, stop, stop, stop… This is not good, scene needs to be cut… Let's start over","Alto, alto, alto, alto... Esto no es bueno, la escena necesita ser cortada... Empecemos de nuevo.",5.5
-3,good,endGood1,"Bene maschere, brave, brave, brave","Well done masks, good, good…","Bien hecho máscaras, bien, bien...",5.5
-4,good,endGood2,"Bene maschere, brave, brave, bene cosí",Well done masks. Bravo!,Bien hecho máscaras. ¡Bravo!,5.5
-5,good,endGood3,"Bella scena, brave maschere.","Nice scene, well done masks.","Bonita escena, bien hecho máscaras.",5.5
-6,question,endQuestion1,"E voi, cosa ne pensate? Erano credibili? Erano capaci?",And you. What did you think? Was it credible? Were they capable?,Y a ti. ¿Qué te pareció? ¿Fue creíble? ¿Fueron buenos?,5.5
-7,question,endQuestion2,"E voi, pubblico, cosa ne pensate di quello che hanno detto i modelli?",And you. What did YOU think of what the models said?,Y a ti. ¿Qué te pareció lo que dijeron los modelos?,5.5
-8,question,endQuestion3,"E voi, pubblico, cosa ne pensate dei modelli? Erano credibili?","And you, what did YOU think about the models? Were they credible?","Y a ti, ¿qué te parecieron los modelos? ¿Fueron creíbles?",5.5
-9,question,endQuestion4,"E voi, pubblico, cosa ne pensate dei modelli? Li capite? Ci credete?",And you - what do you think about the models? Did you understand them? Did you believe them?,"Y tú, ¿qué opinas de los modelos? ¿Los entendiste? ¿Te los creíste?",5.5
-10,question,endQuestion5,"E voi, pubblico, cosa ne pensate dei modelli? Li capite? Gli credete?",And you - what do you think about the models? Did you understand… Did you believe it?,Y tú ¿qué opinas de los modelos? ¿Lo entendiste...? ¿Te lo creíste?,5.5
+id,type,name,Narrator,NarratorTranslation,NarratorTranslationEs,NarratorLengthIt,NarratorLength
+0,bad,endBad1,"Stop, Stop, Stop. Basta. Qua ci tirano pomodori. Rifacciamo.","Stop, stop, stop! Enough… Too many tomatoes. Let's start over","¡Alto, alto, alto! ¡Basta! Demasiados tomates. Empecemos de nuevo.",5.5,8
+1,bad,endBad2,"Stop. Stop. Allora la scena non sta piacendo, non va bene, dobbiamo interrom—","Stop. Stop. The scene is not to their liking, this is not good… We have to interr—","Alto. Alto. La escena no les gusta, esto no es bueno... Tenemos que interr...",5.5,13
+2,bad,endBad3,"Stop, stop, stop, stop. Non va bene, la scena va tagliata. Ricominciamo.","Stop, stop, stop, stop… This is not good, scene needs to be cut… Let's start over","Alto, alto, alto, alto... Esto no es bueno, la escena necesita ser cortada... Empecemos de nuevo.",5.5,7
+3,good,endGood1,"Bene maschere, brave, brave, brave","Well done masks, good, good…","Bien hecho máscaras, bien, bien...",5.5,5.5
+4,good,endGood2,"Bene maschere, brave, brave, bene cosí",Well done masks. Bravo!,Bien hecho máscaras. ¡Bravo!,5.5,5.5
+5,good,endGood3,"Bella scena, brave maschere.","Nice scene, well done masks.","Bonita escena, bien hecho máscaras.",5.5,5.5
+6,question,endQuestion1,"E voi, cosa ne pensate? Erano credibili? Erano capaci?",And you. What did you think? Was it credible? Were they capable?,Y a ti. ¿Qué te pareció? ¿Fue creíble? ¿Fueron buenos?,5.5,6.5
+7,question,endQuestion2,"E voi, pubblico, cosa ne pensate di quello che hanno detto i modelli?",And you. What did YOU think of what the models said?,Y a ti. ¿Qué te pareció lo que dijeron los modelos?,5.5,6.5
+8,question,endQuestion3,"E voi, pubblico, cosa ne pensate dei modelli? Erano credibili?","And you, what did YOU think about the models? Were they credible?","Y a ti, ¿qué te parecieron los modelos? ¿Fueron creíbles?",5.5,5.5
+9,question,endQuestion4,"E voi, pubblico, cosa ne pensate dei modelli? Li capite? Ci credete?",And you - what do you think about the models? Did you understand them? Did you believe them?,"Y tú, ¿qué opinas de los modelos? ¿Los entendiste? ¿Te los creíste?",5.5,10
+10,question,endQuestion5,"E voi, pubblico, cosa ne pensate dei modelli? Li capite? Gli credete?",And you - what do you think about the models? Did you understand… Did you believe it?,Y tú ¿qué opinas de los modelos? ¿Lo entendiste...? ¿Te lo creíste?,5.5,7
