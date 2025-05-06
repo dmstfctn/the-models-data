@@ -378,7 +378,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "11",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object.",
-    "NarratorTranslationEs": "Bueno, estamos en una hermosa habitación real. En el centro de la escena, un objeto.",
+    "NarratorTranslationEs": "Bueno, estás en una bonita habitación, la habitación de un caballero. En el centro se ve un objeto.",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": "in a villa",
     "phoneCategoryEs": "en una villa"
@@ -394,7 +394,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "11",
     "NarratorTranslation": "Well, we are in a beautiful royal room. In the middle of the scene, an object",
-    "NarratorTranslationEs": "Estamos en una cueva. En el centro se ve un objeto.",
+    "NarratorTranslationEs": "Bueno, estamos en una hermosa habitación real. En el centro de la escena, un objeto.",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": "in a villa",
     "phoneCategoryEs": "en una villa"
@@ -410,7 +410,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "10",
     "NarratorTranslation": "We are in a cave. At the center you see an object.",
-    "NarratorTranslationEs": "Estamos en el circo, y en el centro de la escena hay un objeto, ¿vale?",
+    "NarratorTranslationEs": "Estamos en una cueva. En el centro se ve un objeto.",
     "phoneCategoryIt": "in una grotta",
     "phoneCategoryEn": "in a cave",
     "phoneCategoryEs": "en una cueva"
@@ -426,7 +426,7 @@
     "NarratorLengthIt": "6.7",
     "NarratorLength": "10",
     "NarratorTranslation": "So we are at the circus, and in the middle of the scene there is an object, ok?",
-    "NarratorTranslationEs": "Aquí estamos. Qué bonito edificio. Míralo. Y mira, en el centro hay un objeto, ¿vale?",
+    "NarratorTranslationEs": "Estamos en el circo, y en el centro de la escena hay un objeto, ¿vale?",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": "at the circus",
     "phoneCategoryEs": "en el circo"
@@ -442,7 +442,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "12",
     "NarratorTranslation": "Here we are. What a beautiful building. Look at it. And look at the center is an object, ok?",
-    "NarratorTranslationEs": "¡Hola, máscaras! La escena se desarrolla en un interior, en una habitación con una gran chimenea. En el centro, un objeto.",
+    "NarratorTranslationEs": "Aquí estamos. Qué bonito edificio. Míralo. Y mira, en el centro hay un objeto, ¿vale?",
     "phoneCategoryIt": "in un castello",
     "phoneCategoryEn": "in a castle",
     "phoneCategoryEs": "en un castillo"
@@ -458,7 +458,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "12",
     "NarratorTranslation": "Hello masks! The scene takes place indoors, in a room with a large fireplace. In the middle, an object",
-    "NarratorTranslationEs": "Bueno, estamos en una taberna. Aquí ven un objeto, ¿de acuerdo?",
+    "NarratorTranslationEs": "¡Hola, máscaras! La escena se desarrolla en un interior, en una habitación con una gran chimenea. En el centro, un objeto.",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": "in a room",
     "phoneCategoryEs": "en una habitación"
@@ -474,7 +474,7 @@
     "NarratorLengthIt": "6",
     "NarratorLength": "8",
     "NarratorTranslation": "Ok, we are in a tavern. Here you see an object, ok?",
-    "NarratorTranslationEs": "Bueno, están en una bonita habitación, la de un caballero. En el centro ven un objeto.",
+    "NarratorTranslationEs": "Bueno, estamos en una taberna. Aquí ven un objeto, ¿de acuerdo?",
     "phoneCategoryIt": "in osteria",
     "phoneCategoryEn": "in an inn",
     "phoneCategoryEs": "en una posada"
@@ -490,7 +490,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "12",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object.",
-    "NarratorTranslationEs": "Bueno, la escena se desarrolla en un lugar muy especial, con decoraciones orientales... se puede interpretar. En el centro, un objeto...",
+    "NarratorTranslationEs": "Bueno, están en una bonita habitación, la de un caballero. En el centro ven un objeto.",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": "in a villa",
     "phoneCategoryEs": "en una villa"
@@ -506,7 +506,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "14",
     "NarratorTranslation": "Well, the scene is set in a very special place, with oriental decorations... you can interpret that. In the middle, an object...",
-    "NarratorTranslationEs": "Así que estamos en una habitación bastante sencilla, con chimenea, y en el centro hay un objeto.",
+    "NarratorTranslationEs": "Bueno, la escena se desarrolla en un lugar muy especial, con decoraciones orientales... se puede interpretar. En el centro, un objeto...",
     "phoneCategoryIt": "in un atrio",
     "phoneCategoryEn": "in an hall",
     "phoneCategoryEs": "en un pasillo"
@@ -522,7 +522,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "10",
     "NarratorTranslation": "So, we're in a pretty simple room, with a fireplace, and in the middle of the room is an object",
-    "NarratorTranslationEs": "Bueno, empecemos por la escena: estamos en una plaza, y en el centro se ve un objeto de utilería.",
+    "NarratorTranslationEs": "Así que estamos en una habitación bastante sencilla, con chimenea, y en el centro hay un objeto.",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": "in a room",
     "phoneCategoryEs": "en una habitación"
@@ -538,7 +538,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "12",
     "NarratorTranslation": "Ok, let's start from the scene, we are in a square, and in the middle of the scene you can see a prop.",
-    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en el centro de la escena, ven un objeto. Bien.",
+    "NarratorTranslationEs": "Bueno, empecemos por la escena: estamos en una plaza, y en el centro se ve un objeto de utilería.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": "in a square",
     "phoneCategoryEs": "en una plaza"
@@ -554,7 +554,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "12",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
-    "NarratorTranslationEs": "Entonces. Estamos en un gran estadio. ¡Mucha gente! Y aquí, en el centro, un objeto. ¿De acuerdo?",
+    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en el centro de la escena, ven un objeto. Bien.",
     "phoneCategoryIt": "in una prigione",
     "phoneCategoryEn": "in a prison",
     "phoneCategoryEs": "en una prisión"
@@ -570,7 +570,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "13",
     "NarratorTranslation": "So. We are in a big arena. Lots of people! And here in the middle, an object. OK?",
-    "NarratorTranslationEs": "Aquí estamos. Qué triste es esta habitación... Y en el centro de la escena hay un objeto de utilería.",
+    "NarratorTranslationEs": "Entonces. Estamos en un gran estadio. ¡Mucha gente! Y aquí, en el centro, un objeto. ¿De acuerdo?",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": "at the circus",
     "phoneCategoryEs": "en el circo"
@@ -586,7 +586,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "7",
     "NarratorTranslation": "Here we are. How sad is this room... And in the middle of the scene is a prop.",
-    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en medio de la escena, ven un objeto. Bien.",
+    "NarratorTranslationEs": "Aquí estamos. Qué triste es esta habitación... Y en el centro de la escena hay un objeto de utilería.",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": "in a room",
     "phoneCategoryEs": "en una habitación"
@@ -602,7 +602,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "12",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
-    "NarratorTranslationEs": "Aquí estamos. De vuelta en el circo, el lugar perfecto para ustedes dos. En medio de la escena, un objeto...",
+    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en medio de la escena, ven un objeto. Bien.",
     "phoneCategoryIt": "in una cella",
     "phoneCategoryEn": "in a cell",
     "phoneCategoryEs": "en una celda"
@@ -618,7 +618,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "12",
     "NarratorTranslation": "Here we are. So we are back at the circus, the perfect place for you two. In the middle of the scene, an object...",
-    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en medio de la escena, ven un objeto. Bien.",
+    "NarratorTranslationEs": "Aquí estamos. De vuelta en el circo, el lugar perfecto para ustedes dos. En medio de la escena, un objeto...",
     "phoneCategoryIt": "al circo",
     "phoneCategoryEn": "at the circus",
     "phoneCategoryEs": "en el circo"
@@ -634,7 +634,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "10",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
-    "NarratorTranslationEs": "Comencemos. Estamos junto a unas montañas bajas. Observen el hermoso paisaje. En medio de la escena, un objeto...",
+    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en medio de la escena, ven un objeto. Bien.",
     "phoneCategoryIt": "in una prigione",
     "phoneCategoryEn": "in a prison",
     "phoneCategoryEs": "en una prisión"
@@ -650,7 +650,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "13",
     "NarratorTranslation": "Let's start. We are by some low mountains. Look at the beautiful landscape. In the middle of the scene, an object..",
-    "NarratorTranslationEs": "Aquí estamos. Miremos a nuestro alrededor: una escena bastante siniestra. En medio ven un objeto.",
+    "NarratorTranslationEs": "Comencemos. Estamos junto a unas montañas bajas. Observen el hermoso paisaje. En medio de la escena, un objeto...",
     "phoneCategoryIt": "in montagna",
     "phoneCategoryEn": "in the mountains",
     "phoneCategoryEs": "en las montañas"
@@ -666,7 +666,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "13",
     "NarratorTranslation": "Here we are. Let's look around - a rather sinister scene. In the middle you see an object",
-    "NarratorTranslationEs": "Comencemos. La escena está en la Plaza de San Marcos, con los leones y la laguna. En medio ven un objeto, ¿de acuerdo?",
+    "NarratorTranslationEs": "Aquí estamos. Miremos a nuestro alrededor: una escena bastante siniestra. En medio ven un objeto.",
     "phoneCategoryIt": "al cimitero",
     "phoneCategoryEn": "at the cemetery",
     "phoneCategoryEs": "en el cementerio"
@@ -682,7 +682,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "14",
     "NarratorTranslation": "Let's begin. The scene is in Piazza San Marco, with the lions and the lagoon. In the middle you see an object, ok?",
-    "NarratorTranslationEs": "Bien, estamos en una habitación humilde, un poco fría, con una ventana rota. En medio hay un objeto...",
+    "NarratorTranslationEs": "Comencemos. La escena está en la Plaza de San Marcos, con los leones y la laguna. En medio ven un objeto, ¿de acuerdo?",
     "phoneCategoryIt": "a Venezia",
     "phoneCategoryEn": "in Venice",
     "phoneCategoryEs": "en Venecia"
@@ -698,7 +698,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "14",
     "NarratorTranslation": "Ok, we are in a humble room, a little cold, with a broken window. In the middle is an object...",
-    "NarratorTranslationEs": "Bien, comencemos con la escena: estamos en una plaza, y en medio de la escena pueden ver un objeto de utilería.",
+    "NarratorTranslationEs": "Bien, estamos en una habitación humilde, un poco fría, con una ventana rota. En medio hay un objeto...",
     "phoneCategoryIt": "in una stanza",
     "phoneCategoryEn": "in a room",
     "phoneCategoryEs": "en una habitación"
@@ -714,7 +714,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "12",
     "NarratorTranslation": "Ok, let's start from the scene, we are in a square, and in the middle of the scene you can see a prop.",
-    "NarratorTranslationEs": "Estamos en una cueva. En el centro ven un objeto. Bueno, empecemos con la escena, sumérjanse. Es bastante extraña. En el centro de la escena, un objeto. ¿De acuerdo?",
+    "NarratorTranslationEs": "Bien, comencemos con la escena: estamos en una plaza, y en medio de la escena pueden ver un objeto de utilería.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": "in a square",
     "phoneCategoryEs": "en una plaza"
@@ -730,7 +730,7 @@
     "NarratorLengthIt": "6.7",
     "NarratorLength": "8",
     "NarratorTranslation": "We are in a cave. At the center you see an object.",
-    "NarratorTranslationEs": "Bueno, empecemos con la escena, sumérjanse. Es bastante extraña. En el centro de la escena, un objeto. ¿De acuerdo?",
+    "NarratorTranslationEs": "Estamos en una cueva. En el centro ven un objeto.",
     "phoneCategoryIt": "in una miniera",
     "phoneCategoryEn": "in a mine",
     "phoneCategoryEs": "en una mina"
@@ -746,7 +746,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "13",
     "NarratorTranslation": "Well, let's start with the scene, immerse yourselves. It's quite strange. In the center of the scene, an object. Ok?",
-    "NarratorTranslationEs": "Empecemos. Estamos junto a unas montañas bajas. Miren el hermoso paisaje. En medio de la escena, un objeto...",
+    "NarratorTranslationEs": " Bueno, empecemos con la escena, sumérjanse. Es bastante extraña. En el centro de la escena, un objeto. ¿De acuerdo?",
     "phoneCategoryIt": "in una grotta",
     "phoneCategoryEn": "in a cave",
     "phoneCategoryEs": "en una cueva"
@@ -762,7 +762,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "13",
     "NarratorTranslation": "Well, let's start with the scene, immerse yourselves. It's quite strange. In the center of the scene, an object. Ok?",
-    "NarratorTranslationEs": "Genial, estamos a la orilla del mar, una escena bonita. Aquí en el escenario hay un objeto...",
+    "NarratorTranslationEs": "Bueno, empecemos con la escena, sumérjanse. Es bastante extraña. En el centro de la escena, un objeto. ¿De acuerdo?",
     "phoneCategoryIt": "in un castello",
     "phoneCategoryEn": "in a castle",
     "phoneCategoryEs": "en un castillo"
@@ -778,7 +778,7 @@
     "NarratorLengthIt": "7",
     "NarratorLength": "12",
     "NarratorTranslation": "Let's start. We are by some low mountains. Look at the beautiful landscape. In the middle of the scene, an object..",
-    "NarratorTranslationEs": "Bien, están en una habitación bonita, la habitación de un caballero. En el centro ven un objeto.",
+    "NarratorTranslationEs": "Empecemos. Estamos junto a unas montañas bajas. Miren el hermoso paisaje. En medio de la escena, un objeto...",
     "phoneCategoryIt": "in campagna",
     "phoneCategoryEn": "in the countryside",
     "phoneCategoryEs": "en el campo"
@@ -793,8 +793,8 @@
     "Narrator": "Bene, siamo al mare, una bella scena.",
     "NarratorLengthIt": "6.2",
     "NarratorLength": "11",
-    "NarratorTranslation": "Nice, we are on the seaside, a nice scene. Here on stage is an object...",
-    "NarratorTranslationEs": "Bien, estamos en... ¡Piazza Maggiore! Nuestra casa. En medio de la escena, un objeto.",
+    "NarratorTranslation": "Nice, we are at the seaside, a nice scene. Here on stage is an object...",
+    "NarratorTranslationEs": "Genial, estamos a la orilla del mar, una escena bonita. Aquí en el escenario hay un objeto...",
     "phoneCategoryIt": "al mare",
     "phoneCategoryEn": "at the sea",
     "phoneCategoryEs": "en el mar"
@@ -810,7 +810,7 @@
     "NarratorLengthIt": "10.7",
     "NarratorLength": "11",
     "NarratorTranslation": "Ok, you are in a nice room, a gentleman's room. In the center you see an object",
-    "NarratorTranslationEs": "Bien, estamos en San Luca, y en medio de la escena hay un objeto...",
+    "NarratorTranslationEs": "Bueno, estamos en una hermosa habitación real. En el centro de la escena, un objeto.",
     "phoneCategoryIt": "in una villa",
     "phoneCategoryEn": "in a villa",
     "phoneCategoryEs": "en una villa"
@@ -826,7 +826,7 @@
     "NarratorLengthIt": "9.1",
     "NarratorLength": "13",
     "NarratorTranslation": "Ok we are in.... Piazza Maggiore! Our home. In the middle of the scene, an object",
-    "NarratorTranslationEs": "Empecemos. Estamos junto a unas montañas bajas. Miren el hermoso paisaje. En medio de la escena, un objeto...",
+    "NarratorTranslationEs": "Bien, estamos en... ¡Piazza Maggiore! Nuestra casa. En el centro de la escena, un objeto.",
     "phoneCategoryIt": "in piazza",
     "phoneCategoryEn": "in a square",
     "phoneCategoryEs": "en una plaza"
@@ -842,7 +842,7 @@
     "NarratorLengthIt": "7.3",
     "NarratorLength": "7",
     "NarratorTranslation": "Ok, we are in San Luca, and in the middle of the scene is an object...",
-    "NarratorTranslationEs": "Bien, estamos en... ¡Piazza Maggiore! Nuestra casa. En el centro de la escena, un objeto",
+    "NarratorTranslationEs": "Bien, estamos en San Luca, y en medio de la escena hay un objeto...",
     "phoneCategoryIt": "a Bologna",
     "phoneCategoryEn": "in Bologna",
     "phoneCategoryEs": "en Bolonia"
