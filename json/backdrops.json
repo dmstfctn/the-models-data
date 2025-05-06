@@ -303,7 +303,7 @@
     "id": "29",
     "description": "Sarcofagi e croci disseminati in un prato circondato da cipressi.",
     "description_en": "Winter, dawn. Tombs and crosses are scattered in a meadow, surrounded by cypress trees.",
-    "category": "Nighttime",
+    "category": "Night",
     "SpriteReference": "29_sprite",
     "CubemapReference": "29_HDR",
     "Narrator": "Eccoci. Guardiamoci intorno - una scena piuttosto sinistra.",
