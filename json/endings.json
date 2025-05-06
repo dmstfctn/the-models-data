@@ -5,6 +5,7 @@
     "name": "endBad1",
     "Narrator": "Stop, Stop, Stop. Basta. Qua ci tirano pomodori. Rifacciamo.",
     "NarratorTranslation": "Stop, stop, stop! Enough… Too many tomatoes. Let's start over",
+    "NarratorTranslationEs": "¡Alto, alto, alto! ¡Basta! Demasiados tomates. Empecemos de nuevo.",
     "NarratorLength": "5.5"
   },
   {
@@ -13,6 +14,7 @@
     "name": "endBad2",
     "Narrator": "Stop. Stop. Allora la scena non sta piacendo, non va bene, dobbiamo interrom—",
     "NarratorTranslation": "Stop. Stop. The scene is not to their liking, this is not good… We have to interr—",
+    "NarratorTranslationEs": "Alto. Alto. La escena no les gusta, esto no es bueno... Tenemos que interr...",
     "NarratorLength": "5.5"
   },
   {
@@ -21,6 +23,7 @@
     "name": "endBad3",
     "Narrator": "Stop, stop, stop, stop. Non va bene, la scena va tagliata. Ricominciamo.",
     "NarratorTranslation": "Stop, stop, stop, stop… This is not good, scene needs to be cut… Let's start over",
+    "NarratorTranslationEs": "Alto, alto, alto, alto... Esto no es bueno, la escena necesita ser cortada... Empecemos de nuevo.",
     "NarratorLength": "5.5"
   },
   {
@@ -29,6 +32,7 @@
     "name": "endGood1",
     "Narrator": "Bene maschere, brave, brave, brave",
     "NarratorTranslation": "Well done masks, good, good…",
+    "NarratorTranslationEs": "Bien hechas las máscaras, bien, bien...",
     "NarratorLength": "5.5"
   },
   {
@@ -37,6 +41,7 @@
     "name": "endGood2",
     "Narrator": "Bene maschere, brave, brave, bene cosí",
     "NarratorTranslation": "Well done masks. Bravo!",
+    "NarratorTranslationEs": "Bien hechas las máscaras. ¡Bravo!",
     "NarratorLength": "5.5"
   },
   {
@@ -45,6 +50,7 @@
     "name": "endGood3",
     "Narrator": "Bella scena, brave maschere.",
     "NarratorTranslation": "Nice scene, well done masks.",
+    "NarratorTranslationEs": "Bonita escena, bien hechas las máscaras.",
     "NarratorLength": "5.5"
   },
   {
@@ -53,6 +59,7 @@
     "name": "endQuestion1",
     "Narrator": "E voi, cosa ne pensate? Erano credibili? Erano capaci?",
     "NarratorTranslation": "And you. What did you think? Was it credible? Were they capable?",
+    "NarratorTranslationEs": "Y tú. ¿Qué te pareció? ¿Fue creíble? ¿Fueron capaces?",
     "NarratorLength": "5.5"
   },
   {
@@ -61,6 +68,7 @@
     "name": "endQuestion2",
     "Narrator": "E voi, pubblico, cosa ne pensate di quello che hanno detto i modelli?",
     "NarratorTranslation": "And you. What did YOU think of what the models said?",
+    "NarratorTranslationEs": "Y tú. ¿Qué te pareció lo que dijeron las modelos?",
     "NarratorLength": "5.5"
   },
   {
@@ -69,6 +77,7 @@
     "name": "endQuestion3",
     "Narrator": "E voi, pubblico, cosa ne pensate dei modelli? Erano credibili?",
     "NarratorTranslation": "And you, what did YOU think about the models? Were they credible?",
+    "NarratorTranslationEs": "Y tú, ¿qué te pareció de las modelos? ¿Fueron creíbles?",
     "NarratorLength": "5.5"
   },
   {
@@ -77,6 +86,7 @@
     "name": "endQuestion4",
     "Narrator": "E voi, pubblico, cosa ne pensate dei modelli? Li capite? Ci credete?",
     "NarratorTranslation": "And you - what do you think about the models? Did you understand them? Did you believe them?",
+    "NarratorTranslationEs": "Y tú, ¿qué opinas de las modelos? ¿Las entendiste? ¿Te las creíste?",
     "NarratorLength": "5.5"
   },
   {
@@ -85,6 +95,7 @@
     "name": "endQuestion5",
     "Narrator": "E voi, pubblico, cosa ne pensate dei modelli? Li capite? Gli credete?",
     "NarratorTranslation": "And you - what do you think about the models? Did you understand… Did you believe it?",
+    "NarratorTranslationEs": "Y tú, ¿qué opinas de las modelos? ¿Las entendiste...? ¿Te lo creíste?",
     "NarratorLength": "5.5"
   }
 ]

@@ -7,7 +7,8 @@
     "ActorReference": "BP_Prop_Mirror",
     "Narrator": "Uno specchio.. ROTTO!",
     "NarratorLength": "2.1",
-    "NarratorTranslation": "..a broken mirror..."
+    "NarratorTranslation": "..a broken mirror...",
+    "NarratorTranslationEs": "...un espejo roto..."
   },
   {
     "id": "1",
@@ -17,7 +18,8 @@
     "ActorReference": "BP_Prop_Globe",
     "Narrator": "Un bel globo sferico. Ripeto, sferico!",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a nice spherical globe. I repeat, spherical."
+    "NarratorTranslation": "..a nice spherical globe. I repeat, spherical.",
+    "NarratorTranslationEs": "...un bonito globo terráqueo. Repito, esférico."
   },
   {
     "id": "2",
@@ -27,7 +29,8 @@
     "ActorReference": "BP_Prop_Cat",
     "Narrator": "Un gatto nero... attenzione al gatto nero",
     "NarratorLength": "3.6",
-    "NarratorTranslation": "..a black cat.. careful..."
+    "NarratorTranslation": "..a black cat.. careful...",
+    "NarratorTranslationEs": "...un gato negro... cuidado..."
   },
   {
     "id": "3",
@@ -37,7 +40,8 @@
     "ActorReference": "BP_Prop_Moon",
     "Narrator": "La Luna...",
     "NarratorLength": "2.1",
-    "NarratorTranslation": "..the moon.."
+    "NarratorTranslation": "..the moon..",
+    "NarratorTranslationEs": "...la luna..."
   },
   {
     "id": "4",
@@ -47,7 +51,8 @@
     "ActorReference": "BP_Prop_Apple",
     "Narrator": "Una mela.",
     "NarratorLength": "1.7",
-    "NarratorTranslation": "..an apple.."
+    "NarratorTranslation": "..an apple..",
+    "NarratorTranslationEs": "...una manzana..."
   },
   {
     "id": "5",
@@ -57,7 +62,8 @@
     "ActorReference": "BP_Prop_Ball",
     "Narrator": "Una bella palla di vetro, con la neve. O??",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a crystal ball. Or!?"
+    "NarratorTranslation": "..a crystal ball. Or!?",
+    "NarratorTranslationEs": "...una bola de cristal. ¿O...?"
   },
   {
     "id": "6",
@@ -67,7 +73,8 @@
     "ActorReference": "BP_Prop_Calculator",
     "Narrator": "Una calcolatrice che dice... due più due uguale quattro",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a calculator that reads 2+2=4"
+    "NarratorTranslation": "..a calculator that reads 2+2=4",
+    "NarratorTranslationEs": "...una calculadora que marca 2+2=4"
   },
   {
     "id": "7",
@@ -77,7 +84,8 @@
     "ActorReference": "BP_Prop_Calendar",
     "Narrator": "Ah un'ultima cosa. Oggi é Venerdi 17...",
     "NarratorLength": "3.6",
-    "NarratorTranslation": "ah also, today is Friday 17..."
+    "NarratorTranslation": "ah also, today is Friday 17...",
+    "NarratorTranslationEs": "Ah, y además, hoy es viernes 17..."
   },
   {
     "id": "8",
@@ -87,7 +95,8 @@
     "ActorReference": "BP_Prop_English",
     "Narrator": "un libro di inglese per principianti.",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a beginners' English book.."
+    "NarratorTranslation": "..a beginners' English book..",
+    "NarratorTranslationEs": "...un libro de inglés para principiantes..."
   },
   {
     "id": "9",
@@ -97,7 +106,8 @@
     "ActorReference": "BP_Prop_Glass",
     "Narrator": "un fresco bicchiere di birra.",
     "NarratorLength": "2.1",
-    "NarratorTranslation": "A glass of.. ehm.. beer!"
+    "NarratorTranslation": "A glass of.. ehm.. beer!",
+    "NarratorTranslationEs": "Un vaso de... ejem... ¡cerveza!"
   },
   {
     "id": "10",
@@ -107,7 +117,8 @@
     "ActorReference": "BP_Prop_Latin",
     "Narrator": "un dizionario di latino.",
     "NarratorLength": "2.1",
-    "NarratorTranslation": "A latin dictionary."
+    "NarratorTranslation": "A latin dictionary.",
+    "NarratorTranslationEs": "Un diccionario de latín."
   },
   {
     "id": "11",
@@ -117,7 +128,8 @@
     "ActorReference": "BP_Prop_Lens",
     "Narrator": "una lente di ingrandimento!",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a magnifying glass!"
+    "NarratorTranslation": "..a magnifying glass!",
+    "NarratorTranslationEs": "...¡una lupa!"
   },
   {
     "id": "12",
@@ -127,7 +139,8 @@
     "ActorReference": "BP_Prop_Maccheroni",
     "Narrator": "un piatto di maccheroni...",
     "NarratorLength": "2.1",
-    "NarratorTranslation": "....a dish of maccheroni!"
+    "NarratorTranslation": "....a dish of maccheroni!",
+    "NarratorTranslationEs": "...¡un plato de macarrones!"
   },
   {
     "id": "13",
@@ -137,6 +150,7 @@
     "ActorReference": "BP_Prop_Sack",
     "Narrator": "un sacco di iuta, ok? Bello pieno.",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a sack... filled with something."
+    "NarratorTranslation": "..a sack... filled with something.",
+    "NarratorTranslationEs": "...un saco... lleno de algo."
   }
 ]

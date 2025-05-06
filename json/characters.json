@@ -10,6 +10,7 @@
     "Narrator": "Pulcinella, tu non ne azzecchi una e inventi cose, insomma fai il furbo",
     "NarratorLength": "5.9",
     "NarratorTranslation": "Pulcinella, you are silly but convincing, and you make up stuff",
+    "NarratorTranslationEs": "Pulcinella, eres tonto pero convincente, e inventas cosas.",
     "PitchShiftSemitones": "2"
   },
   {
@@ -23,6 +24,7 @@
     "Narrator": "Arlecchino allora tu sei allegro  e a volte fine troppo, e altre volte sei servile",
     "NarratorLength": "6.9",
     "NarratorTranslation": "Arlecchino, you are cheerful, sometimes too cheerful, other times servile",
+    "NarratorTranslationEs": "Arlecchino, eres alegre, a veces demasiado alegre, otras veces servil.",
     "PitchShiftSemitones": "4"
   },
   {
@@ -36,6 +38,7 @@
     "Narrator": "Brighella, tu sei ingannevole, un lupo vestito da pecora, antagonistico",
     "NarratorLength": "6.9",
     "NarratorTranslation": "Brighella, you are antagonistic, a wolf in sheep's clothing",
+    "NarratorTranslationEs": "Brighella, eres antagónico, un lobo con piel de cordero.",
     "PitchShiftSemitones": "0"
   },
   {
@@ -49,6 +52,7 @@
     "Narrator": "Dottor Balanzone, tu vuoi apparire dotto allora confabuli, ti inventi cose per dimostrare che sai cose",
     "NarratorLength": "7.3",
     "NarratorTranslation": "Doctor Balanzone, you want to appear knowledgeable so you confabulate, you make up stuff to show off",
+    "NarratorTranslationEs": "Doctor Balanzone, quieres parecer sabio, así que confabulas, te inventas cosas para presumir.",
     "PitchShiftSemitones": "0"
   },
   {
@@ -62,6 +66,7 @@
     "Narrator": "Pantalone tu sei insidioso, a volte avaro e antagonista",
     "NarratorLength": "6.2",
     "NarratorTranslation": "Pantalone, you are insidious, sometimes greedy and antagonistic",
+    "NarratorTranslationEs": "Pantalone, eres insidioso, a veces codicioso y antagónico.",
     "PitchShiftSemitones": "0"
   },
   {
@@ -75,6 +80,7 @@
     "Narrator": "Colombina tu sei gentile, onesta, furba, a volte servile",
     "NarratorLength": "6.6",
     "NarratorTranslation": "Colombina, you are kind, honest, smart.. sometimes servile",
+    "NarratorTranslationEs": "Colombina, eres amable, honesta, inteligente... a veces servil.",
     "PitchShiftSemitones": "1"
   }
 ]
