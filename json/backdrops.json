@@ -8,7 +8,7 @@
     "CubemapReference": "1_HDR",
     "Narrator": "É notte, c'é la luna.",
     "NarratorLength": "7.3",
-    "NarratorTranslation": "Ok so - it's night, the moon is out. At the center of the scene an object...",
+    "NarratorTranslation": "Ok so - it's night, the moon is out. At the center of the scene is an object...",
     "NarratorTranslationEs": "Bien, es de noche, hay luna. En el centro de la escena hay un objeto...",
     "phoneCategoryIt": "in una grotta",
     "phoneCategoryEn": "in a cave",
@@ -114,7 +114,7 @@
     "Narrator": "Qua dobbiamo usare l'immaginazione maschere. Improvvisiamo una scena astratta, con la luna che guarda un globo.",
     "NarratorLength": "9.1",
     "NarratorTranslation": "Here we have to use imagination masks. We see the moon looking at a globe. In the middle of the scene is an object",
-    "NarratorTranslationEs": "Aquí tenemos que usar máscaras de imaginación. Vemos la luna mirando un globo terráqueo. En el centro de la escena hay un objeto.",
+    "NarratorTranslationEs": "Aquí tenemos que usar la imaginación, máscaras. Vemos la luna mirando un globo terráqueo. En el centro de la escena hay un objeto.",
     "phoneCategoryIt": "in cielo",
     "phoneCategoryEn": "in the sky",
     "phoneCategoryEs": "en el cielo"
@@ -159,7 +159,7 @@
     "Narrator": "Attenzione maschere. Siete in campagna apera ed é nevicato.",
     "NarratorLength": "9.1",
     "NarratorTranslation": "Attention masks. You are in the open countryside and it has snowed. And here in the middle is an object...",
-    "NarratorTranslationEs": "Enmascara la atención. Estás en pleno campo y ha nevado. Y aquí, en medio, hay un objeto...",
+    "NarratorTranslationEs": "Máscaras, atención. Estáis en pleno campo y ha nevado. Y aquí, en medio, hay un objeto...",
     "phoneCategoryIt": "in campagna",
     "phoneCategoryEn": "in the countryside",
     "phoneCategoryEs": "en el campo"
@@ -219,7 +219,7 @@
     "Narrator": "Allora, siamo in una prigione.",
     "NarratorLength": "9.1",
     "NarratorTranslation": "We are in a prison. Here in the middle of the scene you see an object. Ok.",
-    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en medio de la escena, ves un objeto. Bien.",
+    "NarratorTranslationEs": "Estamos en una prisión. Aquí, en medio de la escena, veis un objeto. Bien.",
     "phoneCategoryIt": "in una prigione",
     "phoneCategoryEn": "in a prison",
     "phoneCategoryEs": "en una prisión"

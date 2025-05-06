@@ -18,7 +18,7 @@
     "ActorReference": "BP_Prop_Globe",
     "Narrator": "Un bel globo sferico. Ripeto, sferico!",
     "NarratorLength": "4",
-    "NarratorTranslation": "..a nice spherical globe. I repeat, spherical.",
+    "NarratorTranslation": "..a nice spherical globe. I repeat, spherical!",
     "NarratorTranslationEs": "...un bonito globo terráqueo. Repito, esférico."
   },
   {
@@ -84,8 +84,8 @@
     "ActorReference": "BP_Prop_Calendar",
     "Narrator": "Ah un'ultima cosa. Oggi é Venerdi 17...",
     "NarratorLength": "3.6",
-    "NarratorTranslation": "ah also, today is Friday 17...",
-    "NarratorTranslationEs": "Ah, y además, hoy es viernes 17..."
+    "NarratorTranslation": "ah also, today is Friday the 13th...",
+    "NarratorTranslationEs": "Ah, y además, hoy es viernes 13..."
   },
   {
     "id": "8",
@@ -106,7 +106,7 @@
     "ActorReference": "BP_Prop_Glass",
     "Narrator": "un fresco bicchiere di birra.",
     "NarratorLength": "2.1",
-    "NarratorTranslation": "A glass of.. ehm.. beer!",
+    "NarratorTranslation": "A glass of.. ahem.. beer!",
     "NarratorTranslationEs": "Un vaso de... ejem... ¡cerveza!"
   },
   {
@@ -151,6 +151,6 @@
     "Narrator": "un sacco di iuta, ok? Bello pieno.",
     "NarratorLength": "4",
     "NarratorTranslation": "..a sack... filled with something.",
-    "NarratorTranslationEs": "...un saco... lleno de algo."
+    "NarratorTranslationEs": "...un saco... lleno de cosas."
   }
 ]
