@@ -7,17 +7,17 @@
     "NarratorTranslation": "Stop, stop, stop! Enough… Too many tomatoes. Let's start over",
     "NarratorTranslationEs": "¡Alto, alto, alto! ¡Basta! Demasiados tomates. Empecemos de nuevo.",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "8"
+    "NarratorLength": "7.3"
   },
   {
     "id": "1",
     "type": "bad",
     "name": "endBad2",
     "Narrator": "Stop. Stop. Allora la scena non sta piacendo, non va bene, dobbiamo interrom—",
-    "NarratorTranslation": "Stop. Stop. The scene is not to their liking, this is not good… We have to interr—",
+    "NarratorTranslation": "Stop. Stop. The scene is not to their liking, this is not good… We have to end—",
     "NarratorTranslationEs": "Alto. Alto. La escena no les gusta, esto no es bueno... Tenemos que interr...",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "13"
+    "NarratorLength": "8.7"
   },
   {
     "id": "2",
@@ -27,7 +27,7 @@
     "NarratorTranslation": "Stop, stop, stop, stop… This is not good, scene needs to be cut… Let's start over",
     "NarratorTranslationEs": "Alto, alto, alto, alto... Esto no es bueno, la escena necesita ser cortada... Empecemos de nuevo.",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "7"
+    "NarratorLength": "10.5"
   },
   {
     "id": "3",
@@ -37,7 +37,7 @@
     "NarratorTranslation": "Well done masks, good, good…",
     "NarratorTranslationEs": "Bien hecho máscaras, bien, bien...",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "5.5"
+    "NarratorLength": "3.1"
   },
   {
     "id": "4",
@@ -47,7 +47,7 @@
     "NarratorTranslation": "Well done masks. Bravo!",
     "NarratorTranslationEs": "Bien hecho máscaras. ¡Bravo!",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "5.5"
+    "NarratorLength": "3"
   },
   {
     "id": "5",
@@ -57,7 +57,7 @@
     "NarratorTranslation": "Nice scene, well done masks.",
     "NarratorTranslationEs": "Bonita escena, bien hecho máscaras.",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "5.5"
+    "NarratorLength": "2.6"
   },
   {
     "id": "6",
@@ -67,7 +67,7 @@
     "NarratorTranslation": "And you. What did you think? Was it credible? Were they capable?",
     "NarratorTranslationEs": "Y a ti. ¿Qué te pareció? ¿Fue creíble? ¿Fueron buenos?",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "6.5"
+    "NarratorLength": "8.6"
   },
   {
     "id": "7",
@@ -77,7 +77,7 @@
     "NarratorTranslation": "And you. What did YOU think of what the models said?",
     "NarratorTranslationEs": "Y a ti. ¿Qué te pareció lo que dijeron los modelos?",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "6.5"
+    "NarratorLength": "3.5"
   },
   {
     "id": "8",
@@ -87,7 +87,7 @@
     "NarratorTranslation": "And you, what did YOU think about the models? Were they credible?",
     "NarratorTranslationEs": "Y a ti, ¿qué te parecieron los modelos? ¿Fueron creíbles?",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "5.5"
+    "NarratorLength": "6.3"
   },
   {
     "id": "9",
@@ -97,7 +97,7 @@
     "NarratorTranslation": "And you - what do you think about the models? Did you understand them? Did you believe them?",
     "NarratorTranslationEs": "Y tú, ¿qué opinas de los modelos? ¿Los entendiste? ¿Te los creíste?",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "10"
+    "NarratorLength": "6.4"
   },
   {
     "id": "10",
@@ -107,6 +107,6 @@
     "NarratorTranslation": "And you - what do you think about the models? Did you understand… Did you believe it?",
     "NarratorTranslationEs": "Y tú ¿qué opinas de los modelos? ¿Lo entendiste...? ¿Te lo creíste?",
     "NarratorLengthIt": "5.5",
-    "NarratorLength": "7"
+    "NarratorLength": "6"
   }
 ]
